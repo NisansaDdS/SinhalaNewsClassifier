@@ -1,0 +1,203 @@
+Only sentences 
+17005
+84044
+8528
+
+1.6GB
+
+
+Only sentences and uni
+17005
+8528
+
+282,828kb
+
+10% of above
+hyperpypies 34.7%
+
+20%
+6503
+8528
+1705
+hyperpypies 40.91%
+
+50%
+10421
+8528
+4264
+
+Nope!
+
+
+40%
+9292
+8528
+3411
+hyperpypies 48.95
+
+40% with Stem
+7532
+8528
+3411
+hyperpypies 47.22%
+
+40% with Stem and wordnet (depth 5)
+7510
+8528
+3411
+hyperpypies 47.22%
+
+40% with Stem and wordnet (depth 8)
+7580
+8528
+3411
+hyperpypies 47.8977%
+VFI 48.69%
+Random Forrest: 26.7%
+NNGE: crash
+Alternating decision tree: not av
+ IB1 instance-based classifier: crash
+ Logistic model tree : crash
+ Radial basis function network: crash
+ meta.END: crash
+ bayesnet: 
+ 
+
+
+40% with Stem and wordnet (depth 8) Omly words in WodNet
+7445
+8528
+3411
+hyperpypies: 47.486
+VFI: 48.04
+
+40% with Stem and wordnet (depth 5) Omly words in WodNet
+7498
+8528
+3411
+hyperpypies: 49.162%
+VFI: 48.63%
+
+40% with Stem and wordnet (depth 5) Omly words in WodNet
+7483
+8528
+3411
+hyperpypies: 46.95%
+VFI: 48.13%
+
+100% with Stem AND ngrams that appear more than or equal to 5 times NO WORDNET
+3276 <-uni
+8528 <- senten
+hyperpypies: 24.4442
+VFI: 36.3722
+Random Forest: 27.1968
+
+100% with Stem AND ngrams that appear more than or equal to 3 times NO WORDNET
+5161 <-uni
+8528 <- senten
+hyperpypies: 26.79%
+VFI: 34.38%
+
+100% with Stem AND ngrams that appear more than or equal to 3 times With WORDNET level 3
+2720
+8528
+hyperpypies: 22.29%
+VFI: 34.21%
+
+100% with Stem AND ngrams that appear more than or equal to 2 times With NO WORDNET
+7185
+8528
+hyperpypies: Crash 
+VFI: 
+
+100% with Stem AND ngrams that appear more than or equal to 2 times With NO WORDNET No Stopwords
+7185
+8528
+hyperpypies: Crash 
+VFI: 
+
+100% with Stem AND ngrams that appear more than or equal to 3 times With NO WORDNET No Stopwords no numbers 
+5106 
+8528
+hyperpypies: 27%
+VFI: 34.97
+
+
+100% with Stem AND ngrams that appear more than or equal to 3 times With NO WORDNET No Stopwords no numbers information atmost 0.99
+1128
+8528
+hyperpypies: 26.738
+VFI: 27.338
+
+100% with Stem AND ngrams that appear more than or equal to 2 times With NO WORDNET No Stopwords no numbers information atmost 0.99
+1637
+8528
+hyperpypies: 33.149
+VFI: 33.1255
+Rand For,NB,LR,: 27.2
+Lazy IBK 40.1482%
+
+........................................................................................................................
+NEW
+uni: 10 fold : no wordnet
+38.043701140586954
+
+uni & bi 10 fold : no wordnet
+37.07
+
+uni: 10 fold : no wordnet : With info (multi)
+37.95
+
+uni: 10 fold : no wordnet : With info (sum with part val)
+38.0433807509932
+
+uni: 10 fold : no wordnet : With info (sum with idf)
+38.79533512751506
+
+uni: 10 fold : no wordnet : With direct-info (sum with idf)
+38.80392156862745
+
+Missing::  Miss: 77954 Hit: 58662 Miss Per%: 57 Miss Var: 1.3564922903250636
+Found::  Miss: 1851 Hit: 1987 Miss Per%: 48 Miss Var: 1.1988114532685035
+
+Pres: 60649/ 140454= 43.18%
+
+uni: 10 fold : add wordnet but no wordnet modifier: With direct-info (sum with idf)
+45.71767268999103
+
+Missing::  Miss: 67295 Hit: 69321 Miss Per%: 49 Miss Var: 1.2124526339252544
+Found::  Miss: 1851 Hit: 1987 Miss Per%: 48 Miss Var: 1.1988114532685035
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info (sum with idf)
+45.7841855696527
+
+Missing::  Miss: 67189 Hit: 69427 Miss Per%: 49 Miss Var: 1.2097664796320826
+Found::  Miss: 1851 Hit: 1987 Miss Per%: 48 Miss Var: 1.1988114532685035
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info x 3 weight (sum with idf)
+45.78719723183391
+
+Missing::  Miss: 67148 Hit: 69468 Miss Per%: 49 Miss Var: 1.2126496693870257
+Found::  Miss: 1851 Hit: 1987 Miss Per%: 48 Miss Var: 1.1988114532685035
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info x 3 weight (sum with idf) : Remove bi-addition 
+45.895809304113804
+
+Missing::  Miss: 51103 Hit: 49892 Miss Per%: 50 Miss Var: 1.2133925601236717
+Found::  Miss: 17746 Hit: 21713 Miss Per%: 44 Miss Var: 1.1884368308351179
+
+Pres=71605/140454=50.98
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info x 3 weight (sum with idf) : 99.9% similarity
+45.9004857791051
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info x 3 weight (sum with idf) : 99.99% similarity
+45.90119073559005
+
+uni: 10 fold : add wordnet with wordnet modifier: With direct-info x 3 weight (sum with idf) : 99.999% similarity
+45.90125482254323
+
+uni: 10 fold : add wordnet with wordnet modifier (with V and Other too): With direct-info x 3 weight (sum with idf) : no random
+45.901447083402765
+
+
