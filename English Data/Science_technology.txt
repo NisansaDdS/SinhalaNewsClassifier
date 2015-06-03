@@ -1,0 +1,1120 @@
+An undersea volcano about 300 miles (480 km) off Oregon's coast has been spewing lava for the past seven days, confirming forecasts made last fall and giving researchers unique insight into a hidden ocean hot spot, a scientist said on Friday.
+
+Researchers know of two previous eruptions by the volcano, dubbed "Axial Seamount" for its location along the axis of an underwater mountain ridge, Oregon State University geologist Bill Chadwick said on Friday. But those 1998 and 2011 eruptions were detected months or years afterward, Chadwick added.
+
+Last year, researchers connected monitoring gear to an undersea cable that, for the first time, allowed them to gather live data on the volcano, whose peak is about 4,900 feet (1,500 meters) below the ocean surface.
+
+"The cable allows us to have more sensors and monitoring instruments than ever before, and it's happening in real time," said Chadwick, who also is affiliated with the U.S. National Oceanic and Atmospheric Administration.
+
+In the past, researchers left battery-operated monitoring stations in place for several years, but were able to analyze the data only by retrieving those devices.
+
+Pressure sensors detected that an eruption was underway on April 23. After monitoring hundreds then thousands of small earthquakes each day near Axial Seamount, they detected more than 8,000 tiny quakes over a 24-hour span on April 23, Chadwick said.
+
+As midnight approached, pressure sensors detected the seafloor dropping - a sign that magma was erupting - and the swollen volcano was deflating like an emptying balloon. In total, the seafloor has dropped 8 feet (2.4 meters) in the past week.
+
+Though the eruption has slowed, the volcano still seemed to be expelling magma as of Friday, he said, leaving Chadwick and scientists working with him wondering where the lava was going.
+
+"We know it didn't erupt in the caldera, or crater, because that's where most of our sensors are, and they all survived," Chadwick said. 
+
+Temperature fluctuations and seismic readings are consistent with an eruption north of the volcano's crater, he said. "But we probably won't know until this summer, when we get out there with a ship and are able to look around."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+It may not be space debris, errant asteroids, supply shortages, thruster malfunctions or even the malevolent aliens envisioned in so many Hollywood films that thwart astronauts on any mission to Mars. It may be the ubiquitous galactic cosmic rays.
+
+Researchers said on Friday long-term exposure to these rays that permeate space may cause dementia-like cognitive impairments in astronauts during any future round-trip Mars journey, expected to take at least 2-1/2 years.
+
+In a NASA-funded study, mice exposed to highly energetic charged particles like those in galactic cosmic rays experienced declines in cognition and changes in the structure and integrity of brain nerve cells and the synapses where nerve impulses are sent and received.
+
+The irradiated particles in galactic cosmic rays, remnants of star explosions called supernovas, can penetrate spacecraft and astronauts' bodies. Earth itself is protected by its magnetosphere.
+
+University of California, Irvine radiation oncology professor Charles Limoli said "without a doubt" people would face the same issues as the mice.
+
+"Astronauts may incur cognitive impairments that lead to performance decrements, confusion, increased anxiety and longer-term problems with cognitive health," said Limoli, whose study appears in the journal Science Advances.
+
+This could compromise mission critical activities, especially if unanticipated situations arise during deep spaceflight, Limoli said.
+
+The mice, genetically altered to have green fluorescent neurons to help structural analysis, were exposed to the rays at the NASA Space Radiation Laboratory at the Brookhaven National Laboratory in New York and then analyzed six weeks later.
+
+In addition to the brain neuron and synapse changes, the mice exhibited decreased performance on learning and memory tests. They also lacked curiosity and were sluggish in experiments involving objects placed in a box with them.
+
+"Previous studies show synaptic impairment or loss of synapses is an early and invariant feature of Alzheimer's disease, and there is a strong correlation between the extent of synapse loss and the severity of dementia," said University of California, Irvine neuroscientist Vipan Kumar Parihar.
+
+NASA says it is developing the capabilities needed to send humans to an asteroid by 2025 and Mars in the 2030s.
+
+NASA spokeswoman Stephanie Schierholz said a Mars mission would take at least 2-1/2 years: a six-month journey there, a stay on Mars of at least 18 months, and a six-month flight back. 
+
+Limoli said while Mars-bound astronauts cannot fully escape the rays, it may be possible to design spacecraft with areas of increased protective shielding.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The U.S. Federal Aviation Administration said it would ask the operators of Boeing Co's model 787 airplanes to deactivate the plane's electrical power system periodically.
+
+The FAA said the new airworthiness directive was prompted by the determination that power control units on a model 787 airplane could shut down power generators if they are powered continuously for 248 days.
+
+Sudden loss of power could result in the aircraft going out of control, the directive noted.
+
+Boeing is developing a software upgrade to counter the problem. FAA estimates that this directive affects 28 airplanes of U.S. registry.
+
+In November last year, the FAA had proposed a fix for the 787 model after "numerous reports of failures of proximity sensors" on the plane's wings.
+
+Boeing delivered 30 of its 787 planes worldwide in the first quarter of 2015.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Blue Origin, a startup space company owned by Amazon.com chief Jeff Bezos, launched an experimental suborbital spaceship from Texas, the first in a series of test flights to develop commercial unmanned and passenger spaceflight services, the company said on Thursday.
+
+The New Shepard vehicle blasted off on Wednesday from Blue Origin’s test facility near Van Horn, Texas, and rose to an altitude of 58 miles (93 km) before the capsule separated and parachuted back to Earth.
+
+“Any astronauts on board would have had a very nice journey into space and a smooth return,” Bezos said in a statement.
+
+The descent of the liquid hydrogen- and liquid oxygen-fueled rocket, however, was not successful.
+
+“We lost pressure in our hydraulic system on descent,” Bezos noted. “Fortunately, we’ve already been in work for some time on an improved hydraulic system ... We’ll be ready to fly again soon."
+
+Blue Origin is among a handful of companies developing privately owned spaceships to fly experiments, satellites and passengers into space. Like Virgin Galactic, a U.S. offshoot of Richard Branson’s London-based Virgin Group, and privately owned XCOR Aerospace, Blue Origin is eyeing suborbital spaceflights, which reach altitudes of about 62 miles (100 km), as a stepping stone to orbital flight.
+
+Virgin Galactic plans to resume test flights of its six-passenger, two-pilot SpaceShipTwo vehicle later this year, following a fatal accident in October. Mojave, Calif.-based XCOR plans to begin test flights of its two-person Lynx space plane in late 2015 as well.
+
+Boeing and privately owned Space Exploration Technologies, or SpaceX, both of which have financial support from NASA, are skipping suborbital flight and building space taxis to ferry crews to and from the International Space Station, which flies about 250 miles (418 km) above Earth.
+
+Blue Origin also is working on a more powerful, methane-burning rocket engine that has attracted the backing of United Launch Alliance, the Lockheed-Martin/Boeing partnership that currently flies nearly all of the U.S. military’s satellites.
+
+Blue Origin, SpaceX and United Launch Alliance are all developing reusable launch systems in an effort to cut costs.
+
+Blue Origin expects to fly New Shepard dozens of times unmanned before test pilots are aboard, company President Rob Meyerson told reporters during an April 7 conference call. The capsule is designed to fly three people and/or a mix of passengers and payloads to suborbital space. Blue Origin has not yet released pricing information.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+NASA's pioneering Messenger spacecraft ended its four-year study of the planet Mercury on Thursday by crashing into the planet’s surface, scientists said.
+
+Flight controllers at the Johns Hopkins University Applied Physics Laboratory in Maryland earlier estimated that Messenger, traveling at more than 8,700 mph (14,000 kph), would hit the ground near Mercury’s north pole at 3:26 p.m. EDT (1926 GMT).
+
+Messenger, with no more fuel to maneuver, fought the downward push of the sun's gravity until it impacted the planet's surface. It likely gouged a 52-foot-wide (16 meter) crater into Mercury's 's scarred face
+
+During its final weeks in orbit, Messenger relayed more details about the innermost planet of the solar system, which turns out to have patches of ice inside some of its craters, despite its sizzling location more than twice as close to the sun as Earth.
+
+"We've been concentrating on getting as much of the data down on the ground,” lead researcher Sean Solomon, with Columbia University in New York, wrote in an email. “We will have years to think about the meaning of the measurements.”
+
+Messenger, or the Mercury Surface, Space ENvironment, GEochemistry, and Ranging craft, made the first close-up studies of Mercury since NASA’s Mariner 10 spacecraft flew by the planet three times in the mid-1970s. It arrived at Mercury in 2011 after a circuitous six-year journey.
+
+During its 4,104 orbits of Mercury, Messenger made surprising detections of potassium, sulfur and other volatiles on the planet’s surface that presumably should have evaporated due to the planet’s high temperature. Mercury’s average surface temperature is 332 degrees Fahrenheit (167 degrees Celsius), with daytime highs of 801 degrees Fahrenheit (427 degrees Celsius.)
+
+Messenger also confirmed the existence of ices and other materials, possibly even carbon-based organics, on the floors of craters where sunlight never shines. During its final days, Messenger attempted to peer directly down into targeted craters, Solomon said.
+
+It also found evidence of past volcanic activity and signs the dense and shrinking planet has a liquid-iron core.
+
+"It's mind-boggling how much we have accomplished,” Messenger scientist Deborah Domingue, with the Planetary Science Institute in Tucson, Arizona, said in a statement. “There is such a feeling of satisfaction."
+
+Europe and Japan are partnering on a follow-on mission to Mercury, called BepiColombo, due to launch in 2017.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+NASA’s Pluto-bound New Horizons spacecraft has spotted surface features on the icy world, including a possible polar cap, images released on Wednesday show.
+
+With 60 million miles (97 million km) left to go before its July 14, 2015, encounter, New Horizons already has been able to make out surprising light and dark patches on the surface of Pluto, which is currently more than 32 times farther away from Earth than the sun.
+
+“We are starting to see intriguing features, such as a bright region near Pluto’s visible pole,” NASA science chief John Grunsfeld said in a statement, in reference to what scientists believe could be a polar ice cap.
+
+In the images, Pluto appears as a small, highly pixelated blob, but already scientists can see there is something very odd about its surface. “It’s rare to see any planet in the solar system, at this low resolution, displaying such strong surface markings. If you had similar images of Mercury, or images of even Mars, you would not see the same kinds of big surface units going by as you do here on Pluto. That’s very promising,” New Horizons lead scientist Alan Stern, with the Southwest Research Institute in Boulder, Colo., told reporters during a conference call. Because Pluto is tipped onto its side, similar to Uranus, New Horizons has a steady gaze on one of its polar regions, which appears in the images to be consistently brighter than other areas. Scientists suspect the pole is covered by a highly reflective cap of nitrogen ice.
+
+New Horizons has been traveling toward Pluto for 9.5 years. In the interim, Pluto, which was once considered the ninth and outermost planet in the solar system, was demoted to “dwarf planet” status after scientists discovered other similar icy bodies in solar system’s back yard.
+
+As scientists prepare for their first close-up views of Pluto, another mission at the innermost planet is coming to an end. Out of fuel after four years in orbit, NASA’s Messenger spacecraft is expected to make a crash landing into Mercury on Thursday.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The mouse walked, the mouse stopped; the mouse ignored a bowl of food, then scampered back and gobbled it up, and it was all controlled by neuroscientists, researchers reported on Thursday.
+
+The study, describing a way to manipulate a lab animal's brain circuitry accurately enough to turn behaviors both on and off, is the first to be published under President Barack Obama's 2013 BRAIN Initiative, which aims to advance neuroscience and develop therapies for brain disorders.
+
+The point of the remote-control mouse is not to create an army of robo-rodents. Instead, neuroscientists hope to perfect a technique for identifying brain wiring underlying any behavior, and control that behavior by activating and deactivating neurons.
+
+If scientists are able do that for the circuitry involved in psychiatric or neurological disorders, it may lead to therapies. That approach reflects a shift away from linking such illnesses to "chemical imbalances" in the brain, instead tracing them to miswiring and misfiring in neuronal circuits.
+
+"This tool sharpens the cutting edge of research aimed at improving our understanding of brain circuit disorders, such as schizophrenia and addictive behaviors," said Dr. Francis Collins, director of the National Institutes of Health, which funded the $1 million study.
+
+The technique used to control neurons is called DREADDs (designer receptors exclusively activated by designer drugs).
+
+Brain neurons are genetically engineered to produce a custom-made - "designer" - receptor. When the receptor gathers in a manmade molecule that fits like a key in a lock, the neuron is activated.
+
+Because the receptor does not respond to other molecules, including natural ones in the brain, the only way to activate the neurons is via the manmade one. DREADDs allow scientists to manipulate neurons without implanting anything in the brain.
+
+DREADDs, invented about a decade ago, had been used to turn neurons on or off, but not both. DREADDs 2.0 are the first to do that, scientists led by Bryan Roth of the University of North Carolina reported in Neuron.
+
+Targeting hunger-promoting neurons, the scientists made mice ignore food bowls or dive into them. Targeting movement neurons, they made mice scamper or stop.
+
+In a competing remote-control technique called optogenetics, engineered neurons are activated upon receiving a pulse of light. That turns them on and off more quickly than with DREADDs, but the hardware required for delivering light to a spot in the brain is invasive and cumbersome.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The U.S. Air Force on Wednesday said it plans to launch an aging weather satellite at an expected cost of hundreds of millions of dollars to prevent a gap in forecasting capability and provide another competitive launch opportunity for privately held Space Exploration Technologies Inc, or SpaceX.
+
+General John Hyten, who heads Air Force Space Command, and Air Force Secretary Deborah James, said a decision had been made to launch the Defense Meteorological Satellite Program (DMSP) Flight 20 satellite, which was built in the 1990s.
+
+James told the strategic forces subcommittee of the Senate Armed Services Committee that the Air Force had little choice but to launch the satellite after European allies reversed a decision to launch a weather satellite of their own.
+
+"We have a gap. We have to take care of ourselves," James told the subcommittee.
+
+Hyten said it would cost hundreds of millions of dollars to store and launch the satellite, but the decision would allow the U.S. military to "plug some gaps" in its forecasting capability.
+
+The Air Force recently added new sensors to DMSP F-20 and DMSP F-19, which was launched last April. The DMSP constellation of satellites has been providing weather data to the Pentagon since the 1960s.
+
+The Defense Department, NASA and National Oceanic and Atmospheric Administration launched a joint weather satellite program in the 2000s, but the program was revamped and broken up into separate parts after cost overruns and schedule delays.
+
+Hyten said the decision would also give SpaceX another chance to compete against the current monopoly launcher, the United Launch Alliance, a 50-50 joint venture of Lockheed Martin Corp and Boeing Co.
+
+No further details were immediately available about the exact cost, or when the satellite would be launched.
+
+The Air Force has said it expects to certify SpaceX to compete to launch U.S. military and intelligence satellites by June. It could cost extra time and money to modify the satellite to fly on SpaceX's Falcon 9 launch vehicle.
+
+In March, Space News quoted Colonel Michael Guetlein, commander of the the remote sensing systems directorate at Air Force Space and Missile Systems Center, as saying the Air Force could launch the weather satellite in 2016.
+
+Hyten said James had also decided last week to proceed with a weather satellite that could be launched very quickly under the Air Force's Operationally Responsive Space (ORS) office.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Anytime, day or night, no matter which way you look, it seems you'll see someone with a smartphone in their hand.
+
+Jesse Robbins and Greg Albrecht of San Francisco based company Orion wanted to find a way to give people their hands back. 
+
+"What can I do to make real time communication something that everyone in the world can have in a way that doesn't have them looking down at their smartphone," said Robbins, who learned the importance of hands-free communication during his days as a volunteer firefighter.  
+
+Robbins began sharing his ideas with fellow firefighter Greg Albrecht, a communications and IP specialist. 
+
+"We wanted something you could wear that would keep you in the moment and keep you in what you were doing," added Albrecht.  
+
+The answer to their search came in the form of a wearable device called Onyx that allows you to communicate with people anywhere in the world while keeping your phone in your pocket. 
+
+The device is the main mode of communication at the company's large office space in the Mission District of San Francisco.    
+
+There are plenty of hands free options in the market, but armed with a team of coders and developers, Orion took their concept a step further. 
+
+"It is essentially a bluetooth communications device so it is not much different than any other bluetooth device you might connect to your phone with the exception that the Onyx and other devices on the Orion network connect you to the Orion network," said Albrecht. 
+
+The Orion network, accessed via an app on your phone, is what sets the company apart. It allows any member, no matter their location or cellular provider to speak with another member or group of members with a simple push of a button.   
+
+"The range is the Internet. It has even been used on a moving boat in Palao to talk to a team back in the United States," said Robbins. 
+
+The network also provides users with other useful information about their contacts location and their online status. 
+
+Robbins envisions a day when the devices get smaller and the capabilities of the network expand, giving users the ability to control everything from their TV to their appliances with voice commands. 
+
+The company is growing and will offer a new device called Ruby marketed towards the fashion conscious later this year.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Scientists in China on Wednesday described one of the weirdest flying creatures ever discovered, a pigeon-size dinosaur with wings like a bat that lived not long before the first birds.
+
+The dinosaur, named Yi qi (meaning "strange wing" in Mandarin and pronounced EE-chee), lived about 160 million years during the Jurassic Period, about 10 million years before the earliest-known bird, Archaeopteryx.
+
+It is considered a cousin of birds, but boasted membranous wings made of skin like those of the extinct flying reptiles known as pterosaurs, which lived at the same time, and bats, which appeared more than 100 million years later, instead of the stiff, plume-like feathers of birds.
+
+Each wing was supported by a clawed, three-fingered hand and a rod-like bone extending from the wrist. One of the fingers was much longer than the others. Feathers preserved around its head, neck and limbs are more similar to hairs or bristles than to bird flight feathers.
+
+"It's hard to imagine that it could have flapped very effectively, since the rod-like bone was presumably a fairly unwieldy thing to have attached to the wrist," said paleontologist Corwin Sullivan of the Institute of Vertebrate Paleontology and Paleoanthropology in Beijing.
+
+"So our guess would be that Yi qi was gliding or maybe combining gliding with some relatively inefficient flapping."
+
+Before aviation pioneers Orville and Wilbur Wright flew the world's first successful airplane, others dabbled with all manner of experimental flying machines. There was an analogous period of flight experimentation among dinosaurs before small feathered ones evolved into birds.
+
+Finding a dinosaur with membranous wings was "quite amazing and unexpected," Sullivan said. "Yi qi illustrates the flight-related evolutionary tinkering that was going on in the dinosaur precursors to birds."
+
+Patches of the membranous wing tissue were preserved in the fossil discovered in Hebei Province by a local farmer, but the overall wing shape remains uncertain.
+
+The dinosaur probably lived in trees and used peg-like teeth to munch lizards, mammals and insects, and perhaps fruit.
+
+"This guy is not far from the first birds, in fact," said paleontologist Xing Xu of the Chinese Academy of Sciences and Linyi University. "It belongs to a bizarre dinosaur group called the scansoriopterygids, which are closely related to the most primitive birds such as Archaeopteryx."
+
+Yi qi is the shortest name of any of the more than 700 identified dinosaur species.
+
+The research appears in the journal Nature.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Russia has abandoned a 2.6 billion ruble ($51 million) mission to supply the International Space Station, the head of the Roscosmos space agency said on Wednesday, the latest setback for the country's beleaguered space program.
+
+The unmanned Progress M-27M cargo ship, carrying almost 3 tonnes (2,722 kg) of supplies, was unable to dock with the International Space Station (ISS) because of problems after it launched from the Baikonur Cosmodrome in Kazakhstan early on Tuesday, said Roscosmos head Igor Komarov.
+
+Komarov listed a series of technical problems that caused the freighter to tumble out of control shortly after it reached its preliminary orbit.
+
+"Because of this, the craft's continued flight and its docking with the ISS is not possible," he told a news conference.
+
+Space exploration is a subject of national pride in Russia, rooted in the Cold War "space race" with the United States, but the collapse of the Soviet Union starved the space program of funds and it has been beset by problems in recent years.
+
+Industrial disputes and accusations of corruption have plagued the construction of the flagship Vostochny Cosmodrome in Russia's far east and Roscosmos announced last week it was cutting spending by more than a third over the next 10 years because of the country's economic crisis.
+
+WRECKAGE UNLIKELY TO REACH EARTH
+
+The total cost of Progress cargo ship and its booster rocket was 2.59 billion roubles, a Roscosmos spokesman told Reuters.
+
+Launch dates for two more Progress cargo ships will be delayed until the third and fourth quarter of this year, said Roscosmos deputy-head Alexander Ivanov.
+
+Wreckage from the doomed Progress M-27M ship is likely to burn up as it re-enters the atmosphere, said Vladimir Solovyev, flight director for the Russian section of the ISS.
+
+"(The descent trajectory) indicates that the structural elements of the ship will not reach the Earth's surface," he said.
+
+Any surviving debris will probably land between May 5-7 but experts will not know exactly where it will fall for at least another two days, Solovyev added.
+
+The Progress ship is currently orbiting approximately 123 miles (197 km) above earth, according to satellite tracking website n2yo.com. NASA told Reuters in an email it did not know when the Progress capsule would re-enter the atmosphere.
+
+The current crew on the International Space Station comprises Americans Terry Virts and Scott Kelly, Russians Anton Shkaplerov, Gennady Padalka and Mikhail Korniyenko, and Italian Samantha Cristoforetti.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Neuroscientists have succeeded in creating 'ghosts' in the laboratory by tricking the brains of test subjects into feeling an unexpected 'presence' in the room.
+
+Under normal circumstances the brain is able to form a unified self-perception, but lead researcher Olaf Blanke explained that when this malfunctions the brain creates a second representation of its body.
+
+"Most of the research predicts that we cannot tickle ourselves because our brain precisely predicts of one hand, of my hand, touching my body or touching one or another position. However, if this is not fully integrated because I'm doing it or if I cannot correctly predict because somebody else were to touch me; in those cases of uncertainty, very often in those cases of double touch, the response is that you feel ticklish or tickled by somebody else," said Blanke who is leading the research at the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL).
+
+Blanke's team began by analyzing the brains of 12 patients with neurological disorders who have reported having such a secondary representation of their body, in other words a ghost sensation. MRI scans revealed abnormalities with three brain regions involved in self-awareness, movement and the sense of position in space. These brain regions together contribute to multi sensory signal processing, important for the perception of one's own body.
+
+The scientists then conducted an experiment to 'trigger' a similar neurological sensation in healthy subjects.
+
+Blindfolded and wearing ear-plugs, test subjects performed movements with their hand attached to a robotic device. Behind them, the robotic device reproduced their movements and touched them on the back. When conducted in real time, the participant's brain could adapt and recognize it as their own movement because of the synchronized movement. However, when the scientists introduced a temporal delay of just a few milliseconds, the distorting of temporal and spatial perception induced the 'ghostly' feeling.
+
+"We built a robot which allows us to distort this signal, which makes it hard - or impossible actually - our robot makes it impossible for our healthy subjects now to predict those signals. And one side effect of this was, instead of saying that I'm touching myself or that I'm touching with my index finger my own body; subjects reported in those scenarios where we distorted the signal that somebody else was touching them. And this somebody else; actually some subjects reacted very strongly and they reported that not only that somebody else was touching them, but somebody else was also present. So strong, that some of them decided not to finish the experiment," said Blanke.
+
+The robot creates a disconnect between the movements subjects make and the sensations they were expecting, mixing up "sensorimotor" brain signals of individuals so that their brains no longer recognized input signals as belonging to their own body. Blanke said the system mimics the sensations of some patients with mental disorders or of healthy individuals under extreme circumstances.
+
+The study, published in Current Biology, said that "simple sensorimotor conflicts induced, in healthy subjects, an experience that shares crucial aspects with positive, first-rank symptoms in schizophrenia".
+
+Blanke says the main aim of the study is to better understand some of the symptoms of neurological or psychiatric conditions, such as schizophrenia. He hopes the research could lead to a similar robotic system that doesn't induce neurological symptoms, but helps patients overcome such sensations.
+
+"We are very interested in pursuing this line of work to build similar robotic devices based on our prototype that do not induce psychotic symptoms in healthy subjects but a similar robot that could be used to down regulate psychotic symptoms in actual patients."
+
+Such therapies, he says, could include a wearable device that would help neurological patients down-regulate - or reduce - these feelings; in effect a device to reverse the sensations they created in the lab.
+
+"A more future version we are still working on at the moment could be a completely wearable set-up of the device that you have seen. So this is something that the patient will have maybe inserted in his clothes; smart textiles in a way. And should there be strong manifestations in this case, one could provide feedback in a way that is now not optimized to induce such a psychotic state but to dis-regulate or to down-regulate such a state."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Hanbyul Joo is working on his swing. But he's not at a baseball park, instead he's in a massive geodesic dome in the basement of a building at Carnegie Mellon University. As Joo swings, more than 500 cameras capture his motion on video.  Combined and processed, those videos make up the elements for the most advanced 3D reconstruction ever achieved.
+
+The two story dome is called the Panoptic Studio and its made up of 20 panels, each of which houses 24 cameras. That coupled with an additional 30 HD cameras and depth sensors add up to ensure that the system can capture more than 100,000 different points of motion at any given moment.  
+
+"One minute of videos is about 500 gigabytes which is really huge data. To handle that data we are using 120 hard drives only for the capture," said Hanbyul Joo, a computer scientist at Carnegie Mellon University in the United States. 
+
+Thousands of cables snake around the dome feeding the video singles to a bank of computers that store the data. After the video is captured, it's processed using algorithms which allow the scientists to turn what are essentially 500 different video feeds into a pinpoint accurate 3D reconstruction.
+
+According to Joo, these reconstructions have a wide range of applications, the most evident being in sports where the ability to analyze and correct even the smallest motions could mean the difference between a good kick and a perfect one.     
+
+"The main purpose of this system is to analyze very interesting dynamic movements or dynamics things such as a sports players' motion," said Joo. "Using our system we can compare those movements so we can see how to teach the right motion to people," he added. 
+
+But even more exciting is the technology's potential in the fields of social and behavioral science. The studio's ability to capture even the most subtle movements could one day allow doctors to screen for early signs of diseases ranging from dementia to autism.
+
+The researchers are also looking to take their technology outside the lab. Joo says that, in principle, the same algorithms can be used to generate 3D reconstructions of concerts and sporting events using the media produced by thousands of people snapping selfies and making videos.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Russia was forced to postpone the docking of an unmanned cargo ship with the International Space Station on Tuesday because of a problem receiving data from the supply craft.
+
+The Progress M-27M should have docked with the orbiting station about six hours after its launch from the Baikonur Cosmodrome in Kazakhstan early on Tuesday but the Roscosmos space agency said it now expected a delay of at least two days.
+
+"There are some problems with the data telemetry. They are being worked on by Roscosmos specialists," it said in a statement that gave few details.
+
+TASS news agency quoted an unnamed space official as saying the Progress, carrying supplies such as food and fuel, had missed its intended orbit and could be lost if it is not corrected. Other officials told Russian news agencies there had been a problem opening two antennae on the craft.
+
+Space exploration is a subject of national pride in Russia, rooted in the Cold War "space race" with the United States, but the collapse of the Soviet Union starved the space program of funds and it has been beset by problems in recent years.
+
+The current crew on the International Space Station is made up of Americans Terry Virts and Scott Kelly, Russians Anton Shkaplerov, Gennady Padalka and Mikhail Korniyenko and Italian Samantha Cristoforetti.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+An unmanned SpaceX rocket blasted off from Cape Canaveral Air Force Station in Florida on Monday to put a communications satellite into orbit for the government of Turkmenistan, a first for the Central Asian nation.
+
+After waiting almost an hour for cloudy skies to clear, the 22-story Falcon 9 rocket bolted off its seaside launch pad at 7:03 p.m. (2303 GMT).
+
+Perched on top of the rocket was a Spacebus 4000 telecommunications satellite, built by Thales Alenia Space, a joint venture of Thales SA and Finmeccanica SpA.
+
+Once in orbit, the five-ton (4,500-kg) satellite, known as TurkmenAlem52E, will become Turkmenistan’s first telecommunications spacecraft, relaying television broadcasts and other services to more than 1.2 billion people in Central Asia, Europe, the Middle East and North Africa, according to Thales Alenia Space.
+
+“The launch is a vital first step in Turkmenistan’s development as a space nation,” Jean Loic Galle, president and chief executive of Thales Alenia Space, said in a SpaceX webcast video before launch.
+
+From its perch 22,300 miles above Earth, the satellite, designed to last 15 years, will be located in a slot controlled by Monaco. In exchange for letting Turkmenistan operate there, Monaco’s satellite operator, Space Systems International, has use of 12 of the spacecraft’s Ku-band transponders.
+
+Monday’s launch was the 18th for Space Exploration Technologies, the privately owned, California-based company known as SpaceX, and its second in less than two weeks.
+
+SpaceX has been experimenting with landing the rockets on an ocean barge, but skipped the test after Monday’s launch because the rocket needed all its fuel to properly position TurkmenAlem52E into its initial orbit.
+
+Landing attempts are expected to resume in June when SpaceX launches its next cargo ship to the International Space Station, which flies about 250 miles (418 km) above Earth.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+This is a video of a lateral line, an organ that allows fish to sense water movement, developing in a zebra fish.
+
+Using an imaging technique called Selective Plane Illumination Microscopy, which uses sheets of lights to illuminate sub-cellular activity, Dr. Mariana Muzzopappa and Jim Swoger from the Institute for Research in Biomedicine in Barcelona Spain, claimed top honors in this year's Nikon Small World in Motion Photomicrography Competition.
+
+The entry was one of hundreds submitted for the contest, which aims to highlight the latest techniques of scientific imaging.
+
+Second place went to Dr. Douglas Clark from San Francisco, California who used polarized light to create a time-lapse movie showing crystals forming on a single drop of a solution saturated with caffeine in water. Clark's time-lapse condenses 20 minutes of crystallization into 40 seconds.
+
+Third place honors went to Dr. John Hart from the Department of Atmospheric and Oceanic Science at the University of Colorado-Boulder for a detailed look at oil floating on the surface of water. The video shows pools of water a fraction of the size of a human hair slowly evaporating, as the oil form into larger droplets. This microscopic view of the fluid dynamics involved when oil and water meet could offer researchers clues on how better to deal with future oil spills.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+An undersea volcano about 300 miles (480 km) off Oregon's coast has been spewing lava for the past seven days, confirming forecasts made last fall and giving researchers unique insight into a hidden ocean hot spot, a scientist said on Friday.
+
+Researchers know of two previous eruptions by the volcano, dubbed "Axial Seamount" for its location along the axis of an underwater mountain ridge, Oregon State University geologist Bill Chadwick said on Friday. But those 1998 and 2011 eruptions were detected months or years afterward, Chadwick added.
+
+Last year, researchers connected monitoring gear to an undersea cable that, for the first time, allowed them to gather live data on the volcano, whose peak is about 4,900 feet (1,500 meters) below the ocean surface.
+
+"The cable allows us to have more sensors and monitoring instruments than ever before, and it's happening in real time," said Chadwick, who also is affiliated with the U.S. National Oceanic and Atmospheric Administration.
+
+In the past, researchers left battery-operated monitoring stations in place for several years, but were able to analyze the data only by retrieving those devices.
+
+Pressure sensors detected that an eruption was underway on April 23. After monitoring hundreds then thousands of small earthquakes each day near Axial Seamount, they detected more than 8,000 tiny quakes over a 24-hour span on April 23, Chadwick said.
+
+As midnight approached, pressure sensors detected the seafloor dropping - a sign that magma was erupting - and the swollen volcano was deflating like an emptying balloon. In total, the seafloor has dropped 8 feet (2.4 meters) in the past week.
+
+Though the eruption has slowed, the volcano still seemed to be expelling magma as of Friday, he said, leaving Chadwick and scientists working with him wondering where the lava was going.
+
+"We know it didn't erupt in the caldera, or crater, because that's where most of our sensors are, and they all survived," Chadwick said. 
+
+Temperature fluctuations and seismic readings are consistent with an eruption north of the volcano's crater, he said. "But we probably won't know until this summer, when we get out there with a ship and are able to look around."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+An undersea volcano about 300 miles (480 km) off Oregon's coast has been spewing lava for the past seven days, confirming forecasts made last fall and giving researchers unique insight into a hidden ocean hot spot, a scientist said on Friday.
+
+Researchers know of two previous eruptions by the volcano, dubbed "Axial Seamount" for its location along the axis of an underwater mountain ridge, Oregon State University geologist Bill Chadwick said on Friday. But those 1998 and 2011 eruptions were detected months or years afterward, Chadwick added.
+
+Last year, researchers connected monitoring gear to an undersea cable that, for the first time, allowed them to gather live data on the volcano, whose peak is about 4,900 feet (1,500 meters) below the ocean surface.
+
+"The cable allows us to have more sensors and monitoring instruments than ever before, and it's happening in real time," said Chadwick, who also is affiliated with the U.S. National Oceanic and Atmospheric Administration.
+
+In the past, researchers left battery-operated monitoring stations in place for several years, but were able to analyze the data only by retrieving those devices.
+
+Pressure sensors detected that an eruption was underway on April 23. After monitoring hundreds then thousands of small earthquakes each day near Axial Seamount, they detected more than 8,000 tiny quakes over a 24-hour span on April 23, Chadwick said.
+
+As midnight approached, pressure sensors detected the seafloor dropping - a sign that magma was erupting - and the swollen volcano was deflating like an emptying balloon. In total, the seafloor has dropped 8 feet (2.4 meters) in the past week.
+
+Though the eruption has slowed, the volcano still seemed to be expelling magma as of Friday, he said, leaving Chadwick and scientists working with him wondering where the lava was going.
+
+"We know it didn't erupt in the caldera, or crater, because that's where most of our sensors are, and they all survived," Chadwick said. 
+
+Temperature fluctuations and seismic readings are consistent with an eruption north of the volcano's crater, he said. "But we probably won't know until this summer, when we get out there with a ship and are able to look around."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A batch of straw houses have gone on sale in the UK - and their manufacturers insist that unlike the home featured in classic nursery rhyme The Three Little Pigs, huffing and puffing will not lead the buildings to blow down.
+
+In fact, the architect of the scheme, Professor Pete Walker of the University of Bath, says that using straw in home construction isn't just viable, but safer than other traditional building materials, and will lead to vastly reduced energy bills for inhabitants.
+
+Seven of the homes have been built in the west country town of Shirehampton, and cost a similar amount to a traditional red-brick house to construct. According to Walker, "you can see that the building is clad in red brick but underneath that are the straw bales which form this super-insulated wall construction, whereas the houses around here are largely brick cavity construction. So the innovation really has laid in developing the suitability of straw as a construction material and also convincing people that straw is a viable construction material. People often refer to the nursery rhyme of the Three Little Pigs, and as a result I think people need convincing that straw is robust, safe, durable, and a modern construction material."    
+
+Walker says that straw is used in two different ways in the construction. "In this particular building straw has been used in two ways. First of all it's used as straw bales, so the bales come directly from the farmer from wheat straw, and that is in the outside of the walls, so it's there as installation behind the brick walls, and then inside compressed straw panels are being used as lining panels and as dividers to separate the rooms as well," he said.
+
+The 3.2 metre by 2.9 metre ModCell straw panels consist of an engineered timber frame which enclose the compressed straw bale insulation. The load-bearing straw panels are constructed within an airtight design, in conjunction with triple glazed windows. According to Walker, the straw walls provide three times' greater insulation than required by current UK building regulations, so fuel bills should fall by up to 90 per cent.
+
+The homes were built by Bristol-based company ModCell, in conjunction with Walker's team at the University of Bath's Department of Architecture & Civil Engineering. The university department has been developing the technology for around 15 years, initially building a prefabricated straw bale building on campus called the BaleHaus as a test site in 2009.
+
+Walker says using straw has other positive environmental benefits, utilising some of Britain's seven million tonnes of straw remains left after the production of wheat flour, around half of which is discarded due to its low value. This leftover straw could be used to build more than 500,000 new homes, as an average three-bedroom house needs 7.2 tonnes of straw. Straw also absorbs carbon dioxide (CO2), rather than releasing it, as happens with brick and cement.
+
+"We're not displacing food crops to grow, (as) in the case where the materials have been used to grow biofuels," said Walker. "We already grow wheat because we need it for bread and for other uses, so we're just using a material that's already available on the market. And as a plant, through photosynthesis, it actually absorbs carbon dioxide from the atmosphere and that carbon dioxide is effectively stored within the straw. So it comes in the form of a carbon sink, so it's carbon storage within the fabric of the building and so the more straw you use the more carbon you store within your building for the life of the building."
+
+ModCell straw panels have also, perhaps counter-intuitively, proved particularly resistant to fire. "They passed the fire resistance requirements more than satisfactorily," said Walker. "The panels here which are not lined with lime render had a fire resistance of about 52 minutes and they need fire resistance of 30 minutes for use in housing. But one panel that we used, which was rendered with lime, onto the straw actually had a fire resistance of two hours and fifteen minutes before we stopped the test. So in fact it's remarkably resistant to fire."
+
+The seven homes were put up for sale by Bristol social housing firm Connolly and Callaghan, at £220,000 (330,000 USD) for two bedroom houses and £235,000 (250,000 USD) for four bedroom ones. The four-bedroom have been oversubscribed. Connolly and Callaghan hope to build a further 49 more straw homes nearby.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A Space Exploration Technologies' passenger spaceship made a quick debut test flight on Wednesday, shooting itself off a Florida launch pad to demonstrate a key emergency escape system.
+
+The 20 foot- (6 meter) tall Dragon capsule, a modified version of the spacecraft that flies cargo to the International Space Station, fired up its eight, side-mounted thruster engines at 9 a.m. EDT to catapult nearly one mile (1.6 km) up and over the Atlantic Ocean.
+
+The flight ended less than two minutes later with the capsule's parachute splash-down about 1.4 miles (2.6 km) east of the Cape Canaveral Air Force Station launch site.
+
+“I think this bodes quite well for the future of the program,” SpaceX founder and chief executive Elon Musk told reporters on a conference call after the flight. “It was quite a complicated test.”
+
+The purpose of the flight was to demonstrate an escape system to carry the capsule to safety in case of a fire or accident during launch.
+
+"It’s kind of like an ejection seat in an airplane. You have the ability to leave the pad sitting in the capsule and the capsule would come off and land," NASA astronaut Eric Boe said during an interview on NASA TV.
+
+"It's one of the things the shuttle didn't have," added Boe, who twice flew as a space shuttle pilot.
+
+NASA retired the shuttles in 2011 and invested in commercial designs for a new generation of space taxis. The U.S. space agency has contracts worth a combined $6.8 billion with privately owned SpaceX, as the California-based firm is known, and Boeing for spaceship development and up to six flights per company.
+
+NASA hopes to be flying astronauts to the space station on U.S. spaceships by December 2017, breaking Russia’s monopoly on crew ferry flights. NASA currently pays Russia about $63 million per person for rides on its Soyuz capsules.
+
+No astronauts were aboard the heavily instrumented Dragon capsule that flew Wednesday, though a crash dummy was strapped into a seat in the crew cabin. Musk said the capsule reached a peak speed of 345 mph (555 kph).
+
+“That’s pretty zippy,” he said.
+
+SpaceX plans to refly the capsule as early as this summer aboard a Falcon 9 rocket to test an abort maneuver at supersonic speed and high altitude. The rocket will fly from SpaceX's launch pad at Vandenberg Air Force Base in California.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Deep beneath the Atlantic Ocean between Greenland and Norway, scientists have found microorganisms they call a missing link connecting the simple cells that first populated Earth to the complex cellular life that emerged roughly 2 billion years ago.
+
+The researchers said on Wednesday a group of microorganisms called Lokiarchaeota, or Loki for short, were retrieved from the inhospitable, frigid seabed about 1.5 miles (2.35 km) under the ocean surface not too far from a hydrothermal vent system called Loki's Castle, named after a Norse mythological figure.
+
+The discovery provides insight into how the larger, complex cell types that are the building blocks for fungi, plants and animals including people, a group called eukaryotes, evolved from small, simple microbes, they said.
+
+The Lokiarchaeota are part of a group called Archaea that have relatively simple cells lacking internal structures such as a nucleus. But the researchers found the Lokiarchaeota share with eukaryotes a significant number of genes, many with functions related to the cell membrane.
+
+These genes would have provided Lokiarchaeota "with a 'starter-kit' to support the development of cellular complexity," said evolutionary microbiologist Lionel Guy of Sweden's Uppsala University.
+
+Archaea and bacteria, another microbial form, are together known as prokaryotes.
+
+"Humans have always been interested in trying to find an answer to the question, 'Where do we come from?' Well, now we know from what type of microbial ancestor we descend," said Uppsala University evolutionary microbiologist Thijs Ettema, who coordinated the study.
+
+"Essentially, Lokiarchaeota represent a missing piece of the puzzle of the evolution from simple cells - bacteria and archaea, prokaryotes - to complex cells - eukaryotes, which includes us humans," Ettema added.
+
+Earth's wide diversity of life would have been impossible without this transition from rudimentary cells into the more complicated ones seen in multicellular life. Microbial life originated about 3.5 billion years ago. The first complex cellular life came roughly 2 billion years ago.
+
+How cellular complexity first developed has been one of the big puzzles of evolutionary biology, Guy said.
+
+The Lokiarchaeota were retrieved from oxygen-starved sediment layers during voyages of a Norwegian research vessel, said microbiologist Steffen Jørgensen of Norway's University of Bergen.
+
+While the Loki's Castle geothermal vents spew fluids reaching about 570 degrees Fahrenheit (300 degrees Celsius) about 9 miles (15 km) away, the Lokiarchaeota's locale was desolate, pitch dark and around the freezing point, Jørgensen added.
+
+The research appears in the journal Nature.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+From ways to eavesdrop on brains and learn what advertisements excite consumers, to devices that alleviate depression, the number of U.S. patents awarded for "neurotechnology" has soared since 2010, according to an analysis released on Wednesday.
+
+Most surprising, concluded market-research firm SharpBrains, is that patents have been awarded to inventors well beyond those at medical companies. The leader in neurotechnology patents, according to the report, is consumer-research behemoth Nielsen.
+
+That expansion into non-medical uses, said SharpBrains Chief Executive Alvaro Fernandez, who presented the results at the NeuroGaming conference in San Francisco, shows we are at the dawn of "the pervasive neurotechnology age," in which everyday technologies will be connected to brains.
+
+"Neurotech has gone well beyond medicine, with non-medical corporations, often under the radar, developing neurotechnologies to enhance work and life," he said.
+
+Patents for neurotechnology bumped along at 300 to 400 a year in the 2000s, then soared to 800 in 2010 and 1,600 last year, SharpBrains reported.
+
+Those awarded to medical device company Medtronic PLC, for instance, include ways to use electroencephalography (EEG) to measure the severity of a brain lesion. Several held by medical technology company St. Jude Medical Inc. describe ways to change brain activity to, say, improve vision.
+
+But it is the explosion in non-medical uses, such as controlling video games with brain waves, that is driving neurotechnology.
+
+SharpBrains measured "intellectual property (IP) strength" by number of neurotechnology patents as well as patent quality, reflected in how many other patents reference them, for instance.
+
+By that measure, Nielsen leads the pack, with patents describing ways to detect brain activity with EEG and translate it into what someone truly thinks about, say, a new product, advertising, or packaging.
+
+Microsoft Corp. holds patents that assess mental states, with the goal of determining the most effective way to present information. If software knows a user's attention is wandering, it could hold back complicated material.
+
+Another Microsoft patent describes a neuro-system that claims to discern whether a computer user is amenable to receiving advertisements.
+
+Such patents reflect the enthusiasm for neuro-monitoring, something many scientists say has not been shown to be more effective than, say, asking people what they think about a product.
+
+On a lighter note, an EEG patent awarded to San Jose-based biosensors company NeuroSky describes a design for a headset that could deliver music based on a user's brainwaves, perhaps a ballad when the listener is feeling contemplative.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+An unmanned Russian spacecraft on a failed resupply run to the International Space Station is heading back toward Earth faster than original predictions, with a fiery demise in the atmosphere expected early on Friday, U.S. Air Force tracking data shows.
+
+The Russian Progress capsule, loaded with more than three tons of food, fuel and supplies, blasted off aboard a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan on April 28.
+
+Flight controllers lost contact with the freighter shortly after it reached orbit, and tracking radars later showed the capsule was tumbling. The cause of the accident is under investigation.
+
+The Air Force’s Joint Space Operations Center, which tracks satellites and junk orbiting Earth, found 44 pieces of debris near the Progress and its discarded upper-stage booster, a possible indication that an explosion or other problem occurred just before or during spacecraft separation.
+
+The Russian space agency Roscosmos declined to comment. Results of its preliminary investigation are expected on May 13.
+
+Unable to raise its altitude, the Progress capsule is being pulled back toward Earth. On Wednesday, it was flying as low as 107 miles (173 km) above the planet, according to the satellite tracking website n2yo.com.
+
+The Air Force’s contractor-operated Space-Track.org website shows the capsule due to plunge back into Earth’s atmosphere around 5 a.m. EDT Friday.
+
+The capsule and cargo are expected to burn up in the atmosphere, with any surviving debris likely to impact in the ocean.
+
+“Only a few small pieces of structural elements could reach the planet’s surface,” Roscosmos said in a statement.
+
+The exact location where Progress will re-enter the atmosphere is not yet known. Earth’s atmosphere, which creates drag on a satellite, constantly expands and contracts due to solar activity and other factors.
+
+Dozens of spacecraft larger than Progress have made safe though uncontrolled returns into Earth’s atmosphere, including the United States’ 152,000 pound (69,000 kg) Skylab space station in 1979 and Russia’s 29,800 pound (13,500 kg) failed Phobos-Grunt Mars probe in 2012.
+
+A launch accident claimed another Russian Progress cargo ship in 2011. NASA contractor Orbital ATK lost a station cargo shipment during a botched launch last year. Privately owned Space Exploration Technologies and Japan also fly freighters to the station, a $100 billion research laboratory that flies about 250 miles (418 km) above Earth.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+When the fin whale gets ready to eat, Earth's second-largest animal opens its mouth so wide that it can gulp an amount of water larger than the volume of its own body as it filters out meals of tiny fish and shrimp-like krill.
+
+When feeding, this whale measuring up to about 88 feet (26.8 meters) long and 70 tons increases its swimming speed, opens its mouth and lunges in the ocean.
+
+The force of water rushing into the mouth during "lunge feeding" turns the tongue upside down and expands the bottom of the oral cavity into a huge pouch between the body wall and the overlying skin and blubber. As it closes its mouth, the whale filters out seawater through plates in the mouth while eating huge quantities of small prey.
+
+In other animals and humans, this would cause significant damage to the nerves in the mouth and tongue, which have a fixed length.
+
+But scientists revealed on Monday how the fin whale and its closest cousins, including the even-bigger blue whale, do this without shredding their nerves. These nerves, they said, can stretch to double their usual length and recoil like a bungee cord without harming the nerve fibers.
+
+"Yes, this is way cool," said anatomist Wayne Vogl of the University of British Columbia in Vancouver. "Not only do tissues in the floor of the mouth have to adjust to dramatic expansion and recoil, but all the 'plumbing and wiring' to the structures have to adjust as well, hence the stretchy nerves."
+
+The researchers said this unusual nerve structure is present in rorqual whales, a group of filter-feeding baleen whales including the blue whale, fin whale, humpback whale, sei whale, Omura's whale, Bryde's whale, Eden's whale, common minke whale and Antarctic minke whale.
+
+They discovered this feature while examining the carcass of a fin whale, an endangered species found in all the world's oceans. Only the blue whale, up to about 100 feet (30.5 meters) long and 150 tons, is larger.
+
+Vogl said the nerves that supply the expandable tissues in the floor of the mouth can stretch to accommodate dramatic changes in oral cavity dimensions during "lunge feeding."
+
+Rorqual whales possess grooved or pleated skin on the underside of their bodies, from the chin almost to the belly button, that balloons out as their mouths fill during lunge-feeding.
+
+The research was published in the journal Current Biology.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The first of Inmarsat's high-capacity GlobalXpress satellites is being used in Nepal after the country was hit by an earthquake and ahead of a global launch for the technology set for later this year, the company said on Wednesday.
+
+"We were able to rush terminals into Nepal, and the feedback from that has been great," Chief Executive Rupert Pearce said following release of the British satellite maker's first-quarter earnings.
+
+The terminals provide voice and broadband data capability to help emergency relief workers communicate and media broadcast to send pictures.
+
+It launched the second satellite for its new GlobalXpress high-capacity service in February which is not yet in service and a third is scheduled to go into orbit at the end of May or early June, Pearce said.
+
+He said worldwide commercial service would start in August or September, slightly later than planned due to launch timings.
+
+But he said he remained confident GlobalXpress would generate revenue of $500 million five years after it starts global commercial service.
+
+Inmarsat on Wednesday reported first-quarter revenue of $304.8 million, down from $344.7 million a year earlier as continued cuts in government defense budgets offset higher demand from shipping and aircraft.
+
+"It was a very slightly soft start but it picked up well during the quarter," Pearce said. "We are going at a decent lick into the second."
+
+Shares in the company, which had risen 28 percent since the start of the year to reach an all-time high of 1,022.6 pence on Friday, were down 3 percent to 957 pence by 0756 GMT on Wednesday.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+It's a revolution in food technology that could deliver your food fantasy to your plate in less than a minute.
+
+The Genie, similar in size and appearance to a coffee maker, can produce an unlimited variety of meals using pods, that contain natural dehydrated ingredients. So whether salty or sweet, an appetizer or a dessert, the device can create the food you crave in 30 seconds.
+
+Developed by Israeli entrepreneurs Ayelet Carasso and Doron Marco from White Innovation company, the device uses a mobile app to operate.
+
+"The dish can be anything, it can be a meal like chicken with rice, like couscous with vegetable or an amazing Ramen or even a chocolate soufflé or any other desert that you want," Carasso explains.
+
+"We're using only natural ingredients, we're not using any preservatives or anything that people add to their meals," she added.
+
+Meals are prepared in 140 gram portions in recyclable container.
+
+At the push of a button on Genie's mobile application, the device begins mixing, shaking and adding any required liquids from tubes attached to the back of the compact machine which bakes or cooks the desired dish at the appropriate temperature.
+
+The all-natural ingredients in the pods are freeze-dried and have a shelf-life of between one and two years.
+
+Carasso and Marco conceived of the patent-registered device and pods, when they struggled to find restaurants that delivered to their office during a late night working session.
+
+They describe the idea as a real life version of Star Trek's 'replicator', a device used to synthesize meals on demand, on board the mythical starship.
+
+While the team don't expect the Genie to replace dining out, they say it will challenge chefs to produce a good meal in a pod, or small container.
+
+Israeli chefs have already begun producing new recipes for Genie's pods and hope to develop product lines for well known culinary personalities as well as pods for specific dietary requirements, including sugar and gluten free.
+
+The team say they are already working on expanding the capabilities of the mobile application and expect that in the future, Genie will cater to individual users.
+
+"Eventually, Genie will know your microbiome and will prepare the pod for you, just for you and you will eat better, even tastier and healthier," said 47-year-old Marco.
+
+White Innovation, a privately owned company, hopes to first move into convenience stores and cafes and later sell the appliance to individual consumers.
+
+Marco said Genie is only the first step in the evolution of food technology and he believes the getting a meal in a pill will be available in the not too distant future.
+
+While Genie's target population is primarily in western countries, Marco and Carasso say they designed the device with the hopes that it could day help those in countries that don't have enough food too. 
+
+"In our world, we are getting fat and we are throwing away a lot of food, in their world, they don't have any food. So if you use Genie, you can distribute the food better, you can have the shelf life much longer without the preservatives, give the people better food for them," said Marco.
+
+"We can even the food distribution in the world. That's a very, very important goal for us," he added.
+
+Marco said they are also holding talks with the Israeli military where Genie's pods could produce fresh, nutritious meals on demand for ground forces or aboard ships at sea.
+
+At a tasting at Louise cafe in Ramat Hashron, in central Israel, the kitchen staff were pleasantly surprised by Genie's chocolate soufflé.
+
+"It's really nice, it's chocolatey, it's smooth, it's creamy, it's nice ... surprising actually coming from there," said Tal, Louise cafe's chef.
+
+Yossi Orbach, co-owner of Louise cafe, who recently became Genie's sole distributor in Israel, said Genie can offer restaurant and cafe owners a way to increase the narrow profit  margins they make due to the fact that 30 percent of ingredients used in their kitchens go to waste. The meals can be prepared on demand and the size of the portions greatly limit waste.    
+
+"In a way there is a full menu," Orbach said.  "It gives me an option to do, actually, whatever I want without any preparing," he added.
+
+The Genie is expected to cost several hundred U.S. dollars.  The team say the pods will be priced so they are comparable to a meal, snack or dessert.
+
+With a string of local distributors and sales underway in Europe, Greece and the United States, Marco and Carasso say mass production will begin sooner than they expected.
+
+It appears that Star Trek's replicator may not have been such a far-fetched idea after all.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A self-cleaning paint that can withstand contact with substances such as oil, even after being scratched or scuffed with sandpaper, has been developed by British and Chinese researchers.
+
+The coating was devised by University College London (UCL) researcher Yao Lu and his supervisor, Professor of Inorganic Chemistry Claire Carmalt, and can be applied to clothes, paper, glass and steel. When combined with adhesives, its self-cleaning properties remain, in spite of attempts to scratch or scuff it.
+
+Self-cleaning surfaces work by being extremely repellent to water but are often rendered useless once damaged or exposed to strong substances like oil. Yet the self-cleaning properties of this new coating, made from titanium dioxide nanoparticles, work during and after immersion in problematic substances and following surface damage.
+
+Yao developed an interest in developing the paint having become fascinated with the superhydrophobic - or water repelling - properties of plants, such as lotus and taro leaves. "I am quite interested in self-cleaning coatings in nature, such as plants," said Yao. "We put water on superhydrophobic plants, water wouldn't wet them. Instead the water will form drops and then roll off or just bounce away and leave the surface dry and clean."
+
+The researchers say the new paint creates a resilient surface resistant to wear and tear, that could be used for real-world applications such as clothing and cars. They say that having completely water-resistant surfaces allows water to form marble-shaped droplets that roll over the surface, acting like miniature vacuum cleaners picking up dirt, viruses and bacteria.
+
+According to Carmalt, "water is dropped onto the surface. It actually forms near spherical shaped balls which, as they roll across the surface, act like miniature vacuum cleaners picking up dirt and bacteria, and we can take that paint and we can adhere it onto hard surfaces like glass or metal, or soft surfaces like cotton and paper just using simple adhesives."
+
+She added that the roughness of the surface is created by having two different sizes of titanium dioxide nanoparticles, with the waxy texture formed by adding fluorosilane.
+
+The experiments were filmed to show the behavior of the treated surfaces. One video shows treated paper remaining dry and clean after being exposed to dirt and water.
+
+Carmalt says the biggest challenge for the widespread application of self-cleaning surfaces is finding a way to make them tough enough to withstand everyday damage. She said the UCL team's coating is superior to other superhydrophobic substances available. "I think the improvement is the fact that we get this very resistant coating, so generally these superhydrophobic coatings are very mechanically weak, so can be easily rubbed off over time, whereas by applying this spray adhesive we've managed to get very resistant coatings that are resistant to, as I say, rubbing or scratching and with sandpaper and so on," she said.
+
+Carmalt says the process could easily be scaled-up for industrial applications, such as car spray paint. It could also be used in antimicrobial coatings to combat hospital acquired infections.
+
+The study, which also involved researchers from Imperial College London and Dalian University of Technology (China), was published recently in Science.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Music streaming service Spotify is laying plans to enter the Web video business and has been in discussions with several digital media players about potential partnerships, the Wall Street Journal said, citing people familiar with the matter.
+
+The company has been reaching out to companies that specialize in making content for Google Inc's YouTube to discuss both acquiring their material and co-creating original video series, the Journal said.
+
+Spotify could announce its video plans as early as this month, the report said.
+
+Spotify declined to comment.
+
+The company is nearing a deal to raise $400 million, valuing it at $8.4 billion, the Wall Street Journal had reported last month.
+
+Spotify, which competes with Pandora Media Inc and Apple Inc's Beats, said in January it had 15 million subscribers and 60 million active users at the end of 2014.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+AT&T Inc will take "a couple of years" to shape up its new business in Mexico, where it competes with billionaire Carlos Slim's dominant carrier America Movil, AT&T Mexico Chief Executive Thaddeus Arroyo said in an interview on Thursday.
+
+AT&T, which bought Mexico's No.3 and No.4 wireless carriers in the last few months, faces the task of integrating the two companies' networks to face off against Slim's telecoms group, which controls 70 percent of the mobile market.
+
+The purchases gave AT&T, which was looking for growth outside the saturated U.S. wireless market, a cheap foothold in Latin America, but analysts don't see the Mexico unit having a major impact for some time.
+
+"What we really want to do over the long term is deploy advanced fourth generation services to over 100 million Mexicans ... That will take a number of years," Arroyo said on the sidelines of a World Economic Forum summit on Latin America in the Riviera Maya.
+
+AT&T is in the vanguard of companies seeking to benefit from sweeping telecoms sector overhaul finalized last year. The reform is forcing Slim to open up infrastructure and let rivals interconnect to his network for free.
+
+"It actually will take us a couple of years to ultimately begin to enhance and begin to deploy the experiences that we're looking for," said Arroyo.
+
+AT&T has said that Iusacell, whose previous owners never broke down numbers in detail, made a $27 million first quarter operating loss. AT&T also lowered Iusacell's number of subscribers to 5.97 million from the 9.2 million it said when the deal closed in January.
+
+Arroyo highlighted Mexico's growing middle class and a relatively young population, and emphasized that companies are better positioned than government to enhance wireless services "because networks are living organisms to a degree."
+
+He said that for the company to reach its goal of becoming market leader within a decade, it needs to be successful in both prepaid and postpaid mobile contracts.
+
+Asked if the company is considering the acquisition of any America Movil assets, Arroyo demurred.
+
+"We'll always continue to look at other alternatives in the market, but right now we really have our hands full," he said.
+
+AT&T's purchase of DirecTV, which is still awaiting regulatory approval, would make it and Spanish-language television content Grupo Televisa co-investors in Mexico's biggest pay TV provider Sky.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+European Union antitrust regulators are not investigating U.S. chipmaker Qualcomm on its patent licensing deals, an EU source said on Thursday, refuting media reports saying the issue was on the European Commission's radar.
+
+"The Commission is currently not investigating a possible abuse by Qualcomm with regard to the licensing of standard essential patents," said the source, declining to be named because the person is not authorized to speak to the media.
+
+The EU antitrust authority however is looking into Qualcomm's sale and manufacturing of its chipsets, including rebates and other incentives offered by the company, to see if these are anti-competitive.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A U.S. spying program that systematically collects millions of Americans' phone records is illegal, a federal appeals court ruled on Thursday, putting pressure on Congress to quickly decide whether to replace or end a controversial program aimed at fighting terrorism.
+
+Ruling on a program revealed in 2013 by former government security contractor Edward Snowden, the 2nd U.S. Circuit Court of Appeals in Manhattan said the Patriot Act did not authorize the National Security Agency to collect Americans' calling records in bulk.
+
+Circuit Judge Gerard Lynch wrote for a three-judge panel that Section 215, which addresses the FBI's ability to gather business records, could not be interpreted to have permitted the NSA to collect a "staggering" amount of phone records, contrary to claims by the Bush and Obama administrations.
+
+"Such expansive development of government repositories of formerly private records would be an unprecedented contraction of the privacy expectations of all Americans," Lynch wrote in a 97-page decision. "We would expect such a momentous decision to be preceded by substantial debate, and expressed in unmistakable language. There is no evidence of such a debate."
+
+The appeals court did not resolve the question of whether the surveillance was unconstitutional.
+
+It also declined to halt the program, noting that parts of the Patriot Act including Section 215 expire on June 1.
+
+Lynch said it was "prudent" to give Congress a chance to decide what surveillance is permissible, given the national security interests at stake.
+
+Enacted after the Sept. 11, 2001 attacks, the Patriot Act gives the government a wide variety of tools to investigate terrorism.
+
+Thursday's decision voided a December 2013 ruling in which U.S. District Judge William Pauley in Manhattan found the NSA program lawful. The appeals court sent the case back to him for further review.
+
+NEXT STEP IN CONGRESS
+
+Snowden, a former NSA contractor who lives as a fugitive in Russia, in June 2013 gave several media outlets classified information. Snowden exposed the agency's collection of "bulk telephony metadata." The data includes the existence and duration of calls made, but not the content of conversations.
+
+U.S. Attorney General Loretta Lynch said at a Senate budget hearing on Thursday that NSA data collection was a "vital tool in our national security arsenal," and that she was unaware of privacy violations under its existing program.
+
+The 2nd Circuit is the first federal appeals court to rule on the NSA program's legality. Federal appeals courts in Washington, D.C. and California are also considering the matter.
+
+While the government could appeal Thursday's decision, it may wait for Congress. If Congress changes Section 215, then courts may need to review what it does. But if it reauthorizes Section 215, the issue could end up before the Supreme Court.
+
+Ned Price, a spokesman for the White House's National Security Council, said President Barack Obama wants to end the NSA program, and is encouraged by the "good progress" Congress is making to find an alternative that preserves its "essential capabilities."
+
+Last week, the House Judiciary Committee voted 25-2 in favor of the USA Freedom Act, which would end the bulk collection of telephone data, and the bill is expected to pass the full House.
+
+A similar bill has been proposed in the Senate, but passage remains uncertain.
+
+Majority Leader Mitch McConnell and Richard Burr, the Republican chairman of the Senate Intelligence Committee, have introduced legislation to extend Section 215 and other parts of the Patriot Act through 2020.
+
+The existing NSA program has repeatedly been approved in secret by a national security court established under a 1978 law, the Foreign Intelligence Surveillance Act.
+
+"FISA has been critically important in keeping us safe in America," McConnell said on Thursday.
+
+COUNTER-PUNCH
+
+Other senators welcomed Thursday's decision.
+
+Sen. Rand Paul, a Kentucky Republican and presidential candidate, tweeted that "phone records of law abiding citizens are none of the NSA's business! Pleased with the ruling this morning."
+
+Another presidential candidate, Democratic Sen. Bernie Sanders of Vermont, tweeted that "the NSA is out of control and operating in an unconstitutional manner."
+
+In upholding the NSA program in 2013, Pauley had called it a government "counter-punch" to terrorism at home and abroad.
+
+Pauley ruled 11 days after U.S. District Judge Richard Leon in Washington, D.C. said the "almost Orwellian" program might violate the Fourth Amendment. Leon issued an injunction to block the program but put it on hold pending appeal.
+
+Thursday's decision did not resolve the ACLU's claim that the NSA program violated the bar against warrantless searches under the Fourth Amendment.
+
+Lynch, though, did note the "seriousness" of the constitutional concerns over "the extent to which modern technology alters our traditional expectations of privacy."
+
+ACLU lawyer Alex Abdo welcomed the decision.
+
+"Mass surveillance does not make us any safer, and it is fundamentally incompatible with the privacy necessary in a free society," he said.
+
+The case is American Civil Liberties Union et al v. Clapper et al, 2nd U.S. Circuit Court of Appeals, No. 14-42.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+China's Huawei Technologies [HWT.UL] is undeterred by the merger of telecoms equipment rivals Nokia and Alcatel-Lucent and will keep growing in Europe, its rotating Chief Executive Guo Ping told Reuters on Thursday.
+
+The merged European entity will become the global No.2 in wireless behind Sweden's Ericsson. It will also have a more complete product line encompassing both mobile and fixed-line operations, putting it in a stronger position to compete with Huawei, the leading telecoms equipment maker.
+
+Finland's Nokia announced its acquisition of France's Alcatel-Lucent last month as it seeks to strengthen its position in telecoms equipment.
+
+However, Huawei's Guo welcomed the deal, saying it would spur investment and competition, and expressed optimism about his company's ability to expand its own network gear business.
+
+"The merged company will be much more competitive and for the industry as a whole this is a positive thing," he said.
+
+"This is combining one company that is very strong in the wireless business with another company (that is) very strong in fixed networks."
+
+Huawei expects lucrative opportunities for its network gear business as more people use smartphones, everyday objects are connected to the web and machines are linked to each other via the Internet, Guo added. He said there could be 100 billion new connections in the next ten years.
+
+He also dismissed the effects of Huawei's exclusion from the United States over cybersecurity concerns, saying its global growth would not be stymied as a result.
+
+"Without the U.S. market Huawei will still be able to develop well," he said.
+
+Huawei on Thursday announced plans for a new research institute in Brussels, signaling its intent to take part in Europe's race to be at the forefront of the next generation of mobile broadband technology.
+
+Its sales in Europe, the Middle East and Africa grew 20 percent last year to 101 billion yuan ($16.27 billion), far higher than all other regions apart from China, where sales grew 31 percent, the privately held company's published results said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Alibaba Group Holding Ltd (BABA.N) on Thursday posted a 45 percent rise in quarterly revenue, and shares of the Chinese e-commerce company jumped nearly 7 percent as investors cheered a smoother-than-expected transition to mobile transactions, which surpassed those from personal computers for the first time.
+
+The company said Chief Operating Officer Daniel Zhang would become chief executive on May 10, replacing Jonathan Lu. Lu was CEO for two years, a low-key leader who was frequently eclipsed by outspoken founder and Executive Chairman Jack Ma. Lu will remain on the board as vice chairman.
+
+Alibaba's quarterly revenue jumped 45 percent to $2.81 billion, beating the average analyst estimate of $2.77 billion according to Thomson Reuters I/B/E/S. Shares jumped 6.9 percent to $85.54 at midday in the U.S. trading session.
+
+"It was a very good quarter which is especially important considering there were a lot of expectations that the results would not come in strong," said Gil Luria of Wedbush Securities. "Sentiment is going to swing back to the favorable side."
+
+Zhang takes the helm as the sprawling e-commerce company puts greater emphasis on reaching customers via mobile devices in China, the world's biggest smartphone market.
+
+The company did not explain the reason for the change but Executive Chairman Ma said in a letter to staff he was pleased to see the reins going to a leader born in the 1970s. Zhang was born in 1972 while his predecessor was born in 1969.
+
+Despite the change, Ma is seen as the driving force and the public face of the company. Analyst Tian Hou at Capital Research in Beijing said Zhang would be a thorough executive who executes well and believes in consensus. “He quietly gets things done,” she said.
+
+Despite the strong fourth quarter, the incoming CEO could face slowing growth as saturation among online shoppers threatens to hobble expansion, along with stiff competition from domestic rivals Tencent Holding Ltd (0700.HK), Baidu Inc (BIDU.O) and JD.com Inc (JD.O) on mobile.
+
+The total value of transactions made on Alibaba's platforms, known as gross merchandise volume (GMV), grew 40 percent to $97 billion in the quarter ended March 31. This was the lowest rate of growth in at least 11 quarters, despite sales on mobile devices growing 257 percent year-on-year to account for 51 percent of overall GMV.
+
+Alibaba may also be facing e-commerce user saturation. The increase of annual active buyers, or customers who buy at least one product a year via Alibaba, was the smallest in 3-1/2 years, up 5 percent from the previous quarter to 350 million.
+
+The group will continue investing in areas such as digital entertainment, cloud computing and mobile Internet, Chief Financial Officer Maggie Wu told a conference call.
+
+Zhang will also take on decelerating profit growth.
+
+Alibaba's net income excluding extraordinary and one-off items grew 16 percent year-on-year, a far cry from 48 percent growth the previous year and triple-digit gains in the 12 months before that.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+ItBit Trust Company, LLC, a bitcoin exchange, has been granted a charter under New York State’s banking law, becoming the first virtual currency company to receive a charter in the state, according to New York’s Department of Financial Services.
+
+The exchange can begin operating immediately, but will be required to meet the obligations for both a trust company under New York law and upcoming “BitLicense” regulations, the state agency said.
+
+New York's Department of Financial Services is expected to issue final regulations to license bitcoin and other virtual currencies later this month.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+German industrial group Siemens will cut a further 4,500 jobs as it battles to cope with subdued economic growth and weak demand from energy customers.
+
+The cuts come on top of 7,400 job losses already announced and were unveiled on Thursday alongside a 5 percent drop in first-quarter profit at its industrial businesses.
+
+The trains-to-turbines group currently employs around 340,000 people worldwide, including about 115,000 in Germany where it is one of the country's biggest employers.
+
+Chief Executive Joe Kaeser did not say where the new cuts would be geographically. Siemens has to tread carefully cutting jobs in Germany, where trade unions are strong, and it has reduced previously announced job losses by a few hundred.
+
+However Kaeser, who is trying to trim the company to help it close a profitability gap with rivals General Electric and ABB, said he would keep underperforming businesses that account for 15 billion euros ($16.9 billion) in sales and zero profit, confirming a Reuters story.
+
+This, combined with the lacklustre quarterly results that made Siemens' full-year targets look ambitious, pushed its shares down more than 2 percent, close to the bottom of the blue-chip DAX index.
+
+"It might seem slow to you but I know of no other company that has effected such a fundamental change in such a small space of time," said Kaeser, who took over in 2013 after a messy boardroom coup, on a call with journalists.
+
+Kaeser has already agreed the most expensive acquisition in Siemens' history -- that of U.S. oilfield equipment maker Dresser-Rand for $7.6 billion -- as well as beginning to hive off healthcare and firing a host of senior managers.
+
+But he is fighting on many fronts as sluggish economic growth in major markets dampens infrastructure spending, while weak demand and a drive for more renewable power hurt the energy businesses that account for about 40 percent of Siemens' sales.
+
+"The Power and Gas Division is having to cope, among other things, with regulatory changes, massive price erosion, aggressive competitors and regional overcapacities," Siemens said.
+
+Siemens' key industrial profit margin, where it is targeting 10-11 percent of sales this fiscal year, fell to 9.0 percent in the quarter from 10.3 percent a year earlier.
+
+The target is far below General Electric's 14.6 percent industrial margin in the first quarter or Swiss engineer ABB's 13.5 percent operating margin.
+
+"What Siemens presented today is anything but inspiring numbers," said fund manager Christoph Niesel of Union Investment, a top 10 Siemens shareholder.
+
+"The numbers ... confirm a continuing difficult business environment for capital-goods companies."
+
+AMBITIOUS MARGIN TARGET
+
+Siemens said it anticipated some potential market softness in China and the United States in the second half.
+
+It said it would still reach the lower end of its 10-11 percent industrial profit margin target for the full year, helped by the new cuts.
+
+But Barclays analysts, who rate the stock "underweight", were not convinced. "We struggle to see how the company will reach a 10-11 percent industrial margin," they wrote.
+
+About two-thirds of the new job cuts will be in the underperforming businesses, which Siemens said employed 43-44,000 people worldwide, with most of the rest in power and gas.
+
+Siemens declined to detail what all the underperforming businesses were, saying it preferred to deal with its problems in private and then announce the results, but said they included mechanical drives, compressors and transformers.
+
+The drop in Siemens' quarterly industrial profit to 1.7 billion euros, including 98 million in restructuring costs, was slightly steeper than expected, according to a Reuters poll of analysts whose forecasts averaged 1.78 billion.
+
+Power and Gas performed better than expected with a profit drop of 34 percent, as did Healthcare with a 2 percent slide.
+
+But profits at the Digital Factory unit where Siemens hopes to gain an edge by combining its expertise in industrial software and plant automation unexpectedly fell 13 percent.
+
+Group orders rose 7 percent on a comparable basis to a better-than-expected 20.8 billion euros, helped by large rail orders, while sales were flat at 18 billion. Both top-line results were flattered by the weak euro.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Japanese videogame maker Nintendo Co Ltd forecast its long-awaited entry into smartphone games would help it double annual operating profit in the year through March, offsetting weak sales growth in its traditional consoles.
+
+Nintendo repeatedly resisted investor calls to shift focus to smartphone games to boost profitability, until it unveiled a gaming app partnership in March with DeNA Co Ltd. On Thursday, it said would also branch out to theme parks through a tie-up with Universal Parks & Resorts.
+
+The newly venturesome approach comes as Nintendo's Wii U console lags behind Sony Corp's PlayStation and Microsoft Corp's XBox, while the rise of smartphone games has also led to a decline in customers.
+
+Though console sales are slowing, Nintendo forecast operating profit would roughly double to 50 billion yen ($419.71 million) in the year through next March, ahead of the 39 billion yen average forecast of 20 analysts to Thomson Reuters data.
+
+Nintendo Chief Executive Satoru Iwata said that outlook assumed a "certain level of profit" from the DeNA partnership.
+
+"We definitely want one game this year. And after that we want to come out with new applications, and make sure each one is a hit," he told reporters at an earnings briefing in Osaka.
+
+DeNA Chief Executive Isao Moriyasu said in April that he hopes the pair can come up with titles that bring in over 3 billion yen a month.
+
+In a sign of further diversification, Nintendo also said on Thursday that it would allow Universal Parks & Resorts, a subsidiary of Comcast NBCUniversal, to use its characters for new theme park attractions.
+
+The two companies did not provide details on the timing or scale of the partnership. Iwata said they could collaborate at Universal Studios Japan in Osaka or other Universal theme parks.
+
+Earlier on Thursday, Nintendo said it booked operating profit of 24.8 billion yen for the year ended March 31, turning into the black for the first time in four years due to the lower cost of sales.
+
+For the year ahead, the company forecast Wii U sales to be roughly flat at around 3.4 million consoles, with those of its 3DS portable console likely to fall to 7.6 million from 8.7 million a year earlier.
+
+Shares of Nintendo closed 2.5 percent lower ahead of the earnings release, versus a 1.2 percent fall in the broader market.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Huawei Technologies Co Ltd [HWT.UL] said Thursday it will open a new research institute in Brussels as it expands its footprint in Europe, an increasingly important market for the world's largest telecommunications equipment maker.
+
+The new European Research Institute will serve as a hub overseeing the company's 18 European research and development sites as well as carry out research in 5G telecom technology with European partners, it said.
+
+In recent years Huawei executives, including founder Ren Zhengfei, have detailed a strategy shift away from the United States - where political sensitivities over cybersecurity have hampered the Chinese firm - and towards Europe, a growth market where customers such as Deutsche Telekom, Orange and Vodafone are expected to spend heavily.
+
+Sales in Europe, the Middle East and Africa grew 20 percent in 2014 to 101 billion yuan ($16.27 billion), far higher than any region except China, where sales grew 31 percent, according to the privately-held company's published results.
+
+European governments have proved more friendly to Shenzhen-based Huawei, which pledged last year to double its number of research and development employees in the continent to 1,700. The company currently runs 5G research divisions in Surrey, England and Munich, Germany, among other locations.
+
+Huawei declined to disclose the amount invested in the new institute, but rotating chief executive Guo Ping said in a statement the company viewed Europe as a "favorable industrial environment" and would strengthen its cooperation with European industry and academia.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Telecom equipment maker Alcatel-Lucent (ALUA.PA), which is set to be bought by larger rival Nokia (NOK1V.HE), improved profit margins in the first quarter despite a marked sales slowdown in its biggest market, the United States.
+
+Although it reported a net loss, higher software sales, a weak euro, and strong demand for its Internet routing products - which help telecom operators handle heavy broadband traffic from online video - helped the French firm post a better quarter than Nokia and mobile market leader Ericsson (ERICb.ST).
+
+Both those competitors saw steep drops in their shares after missing profit targets, and Nokia's misstep prompted some Alcatel shareholders to say the takeover deal terms should be renegotiated.
+
+Alcatel-Lucent Chief Executive Michel Combes dismissed the idea on Thursday, saying there was no need to change the deal since both companies were sticking to their annual targets.
+
+"The strategic rationale of the deal does not depend on the performance of an isolated quarter," he said.
+
+"There is no reason for any change."
+
+Alexander Peterc, analyst at Exane BNP Paribas, said the results showed a "significant divergence versus weak peers Nokia and Ericsson".
+
+Alcatel shares were up 2.8 percent at 3.30 euro at 07:41 GMT, the biggest gainers on the on the French blue-chip CAC 40 index .FCHI. They had previously fallen nearly 30 percent since the acquisition by Nokia was announced in mid-April, hit by investor scepticism about the merits of the deal.
+
+Nokia's acquisition of Alcatel-Lucent aims to position the company to better compete with Sweden's Ericsson as well as low-cost Chinese powerhouse Huawei [HWT.UL] by forging a strong number two in mobile with a more complete product line.
+
+Alcatel-Lucent shareholders will get 0.55 shares in Nokia for every Alcatel-Lucent share, ending up with 33.5 percent of the enlarged group once the deal closes in mid-2016.
+
+OUTPERFORMANCE
+
+Alcatel-Lucent's first-quarter revenue rose 9 percent on a comparable basis to 3.24 billion euros ($3.68 billion), ahead of a company-provided consensus of 3.02 billion, while adjusted operating profit nearly doubled to 82 million euros compared with a consensus of 79 million.
+
+The company posted a net loss of 72 million euros - almost flat to the 73 million loss a year before - but some measures of profitability improved because of cost cuts as well as the sale more higher margin products and software.
+
+The gross margin improved to 34.6 percent in the quarter from 32.3 percent a year ago, and the operating margin was 2.5 percent versus 1.1 percent.
+
+"The topline and gross margin beat are impressive, especially in the context of weak North America spending and after the very disappointing results of Nokia and Ericsson on that front," said Bernstein Research analyst Pierre Ferragu.
+
+Alcatel-Lucent earns almost half its revenue in North America where it supplies mobile and broadband gear to Verizon (VZ.N) and AT&T (T.N).
+
+The group confirmed its aim to generate positive free cash flow by the end of the year, the central aim of Combes' turnaround. But it consumed 332 million euro more cash than it generated in the quarter, an improvement of 66 million.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Authorities in China's southwestern city of Chengdu visited the offices of Uber on Wednesday as part of a new investigation into the online taxi-hailing service, a spokeswoman for Chengdu's transportation commission said.
+
+The visit is the second made by authorities to Uber's China offices in the last week. The official Xinhua news agency said on Friday Guangzhou authorities raided Uber's office there on suspicion of an "unlicensed operation".
+
+"A few of our departments visited Uber's offices to conduct interviews or an investigation," the spokeswoman, who gave only her surname, said on Thursday.
+
+Ren said she did not know the details of the investigation.
+
+A spokeswoman for Uber in China said the visit was routine, citing a statement from the Transport Committee of Chengdu quoted by Chinese media. She did not provide more details.
+
+"There are no disruptions to the Uber platform and it's business as usual," she said in a statement.
+
+Uber, which has been valued at an estimated $40 billion, is a comparative latecomer in China, where the number of mobile taxi-hailing app users is forecast to triple to 45 million by 2015 from 2013, according to Chinese research firm iResearch.
+
+Domestic firms Kuaidi Dache and Didi Dache, backed by tech giants Alibaba Group Holding Ltd and Tencent Holdings Ltd respectively, have 90 percent of the market sewn up. The two said in February they would merge.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Samsung Electronics Co Ltd said on Thursday its new $14 billion South Korean chip plant, which is expected to help drive growth as smartphone earnings slow, will start production sometime in the first half of 2017.
+
+The world's No.2 chip maker by revenue did not specify what products will be made at the new production line, which will be built in the city of Pyeongtaek, south of Seoul.
+
+Samsung has said it will invest 15.6 trillion won ($14.4 billion) in the facility, the biggest amount it has ever committed to a single plant.
+
+Domestic online news service MoneyToday has also reported that Samsung is set to spend at least another 10 trillion won on the factory to boost capacity although it did not say when the additional investment would take place.
+
+"The Pyeongtaek semiconductor plant will play a central role in solidifying leadership in the mobile and server markets, which have shown rapid growth in demand recently, and securing share in the next-generation internet of things market," Samsung said in a statement.
+
+Local media have reported that Samsung plans to produce DRAM memory chips at the new plant, but have also said some capacity could be allocated to mobile processors depending on market demand.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The leader of Facebook Inc's fast-growing Seattle office left the company last month, a spokeswoman for the online social network told Reuters on Wednesday, a crucial personnel change at Facebook's largest engineering office outside of its Silicon Valley headquarters.
+
+Engineering manager Paul Carduner, who took over leadership of the Seattle office about six months ago, was in charge of more than 600 people.
+
+In February he announced a lease on space in a new building in Seattle with room for more than 2,000 Facebook employees. The office is expecting to move there in January 2016.
+
+Facebook did not publicize his departure and it has not been reported previously. No replacement has been named, a source at the company told Reuters, and senior staff in Seattle are sharing Carduner's duties.
+
+Carduner did not immediately respond to a request for comment. His Facebook page shows a post saying he left Facebook April 17 and started working from home as a "house husband" on April 18. He does not give any indication of why he left Facebook.
+
+The social network's fast-growing Seattle office is the biggest in terms of engineering staff after its Menlo Park, California, headquarters. Facebook is hiring quickly across the board, not just in Seattle. Last quarter it passed 10,000 employees worldwide for the first time.
+
+The Seattle office has played a critical role in developing many of the features in Facebook's mobile and messaging apps, and has recruited heavily from local tech companies, especially Microsoft Corp.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Videogame maker Activision Blizzard Inc raised its full-year profit and revenue forecasts and reported better-than-expected quarterly results, helped by growth in its high-margin digital business.
+
+Videogame publishers are shifting to the lucrative digital business from physical sales of games as consumers shift from consoles to playing on smartphones and tablets.
+
+Revenue from Activision Blizzard's digital business rose 53.3 percent in the first quarter ended March 31 from a year earlier, helped by robust online sales of "Destiny" and its "Call of Duty" franchise.
+
+Last month, the company launched "Hearthstone: Heroes of Warcraft" on iOS and Android mobile phones.
+
+Rival Electronic Arts Inc has already made smartphone versions of its top-selling games "Madden NFL" and "FIFA". EA reported better-than-expected results on Tuesday, helped by strong digital sales and the release of "Battlefield Hardline".
+
+In May 2006, Activision Blizzard bought RedOctane Inc, the videogame publisher behind the popular Guitar Hero franchise, which has been played by more than 40 million gamers.
+
+Activision Blizzard had said earlier that it planned to launch the next generation of Guitar Hero this fall and that the game would be available across consoles, smartphones and tablet devices.
+
+"It's a good story," Wedbush Securities analyst Michael Pachter said, adding that Guitar Hero would "add a lot" to the company's slate.
+
+Activision Blizzard, also known for its "World of Warcraft", "Skylanders" and "Diablo" franchises, raised its full-year adjusted profit forecast to $1.20 per share from $1.15 earlier.
+
+Analysts were expecting a profit of $1.18 per share, according to Thomson Reuters I/B/E/S.
+
+The company also raised its full-year adjusted revenue forecast to $4.43 billion from $4.40 billion earlier.
+
+Activision Blizzard reported adjusted revenue of $703 million in the first quarter, beating the average analyst estimate of $655.4 million.
+
+The company's net income rose to $394 million, or 53 cents per share, in the first quarter, from $293 million, or 40 cents per share, a year earlier.
+
+On an adjusted basis, it earned 16 cents per share, well above the average estimate of 7 cents.
+
+Up to Wednesday's close, Activision Blizzard's shares had risen about 15 percent this year. The stock was little changed in after-market trading.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Fourteen U.S. and Canadian cancer institutes will use International Business Machines Corp's (IBM.N) Watson computer system to choose therapies based on a tumor's genetic fingerprints, the company said on Tuesday, the latest step toward bringing personalized cancer treatments to more patients.
+
+Oncology is the first specialty where matching therapy to DNA has improved outcomes for some patients, inspiring the "precision medicine initiative" President Barack Obama announced in January.
+
+But it can take weeks to identify drugs targeting cancer-causing mutations. Watson can do it in minutes and has in its database the findings of scientific papers and clinical trials on particular cancers and potential therapies.
+
+Faced with such a data deluge, "the solution is going to be Watson or something like it," said oncologist Norman Sharpless of the University of North Carolina Lineberger Cancer Center. "Humans alone can't do it."
+
+It is unclear how many patients will be helped by such a "big data" approach, however. For one thing, in many common cancers old-line chemotherapy and radiation will remain the standard of care and genomic analysis may not make a difference.
+
+Cloud-based Watson will be used at the centers – including Cleveland Clinic, Fred & Pamela Buffett Cancer Center in Omaha and Yale Cancer Center – by late 2015, said Steve Harvey, vice president of IBM Watson Health. The centers pay a subscription fee, which IBM did not disclose.
+
+Oncologists will upload the DNA fingerprint of a patient's tumor, which indicates which genes are mutated and possibly driving the malignancy. Watson, recognized broadly for beating two champions of the game show Jeopardy! in 2011, will sift through thousands of mutations and try to identify which is driving the tumor, and therefore what a drug must target.
+
+Distinguishing driver mutations from others is a huge challenge. IBM spent more than a year developing a scoring system so Watson can do that, since targeting non-driver mutations would not help.
+
+"Watson will look for actionable targets," Harvey said, matching them to approved and experimental cancer drugs and even non-cancer drugs (if Watson decides the latter interfere with a biological pathway driving a malignancy).
+
+But Watson has trouble identifying actionable targets in cancers with many mutations. Although genetic profiling is standard in melanoma and some lung cancers, where drugs such as Zelboraf from the Genentech unit of Roche Holding AG (ROG.VX) target the driver mutation, in most common tumors traditional chemotherapy and radiation remain the standard of care.
+
+"When institutions do genetic sequencing, only about half the cases come back with something actionable," Harvey said, often because it is impossible to identify the driver mutation or no targeted therapy exists.
+
+The other collaborating centers are Ann & Robert H. Lurie Children's Hospital of Chicago; BC Cancer Agency in British Columbia; City of Hope, in Duarte, California; Duke Cancer Institute in North Carolina; McDonnell Genome Institute at Washington University in St. Louis; New York Genome Center, Sanford Health in South Dakota; University of Kansas Cancer Center; University of Southern California Center for Applied Molecular Medicine, and University of Washington Medical Center.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Virtual reality technology company Oculus said it would start shipping the much-awaited consumer version of its Rift headset in the first quarter of 2016.
+
+Pre-orders for Rift will start later this year, Oculus, which Facebook Inc bought for $2 billion last year, said.
+
+Previous versions of the VR headset, available since 2012, were aimed at developers to make games and run tests. The consumer version was widely expected sometime this year.
+
+"In the weeks ahead, we'll be revealing the details around hardware, software, input, and many of our unannounced made-for-VR games and experiences coming to the Rift," the company said on a blog post.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The EU unveiled plans to shake up rules for online services in the hope that breaking down borders can revive the bloc's economy, but risks accusations of trying to throw up new barriers to the U.S. firms that dominate its market.
+
+With some fanfare, the European Commission presented a range of broad policy proposals on Wednesday. They range from possible new regulation for Web platforms like Google and Facebook to popular plans for cutting delivery costs on online shopping over EU borders and ending blocks on watching online videos abroad.
+
+The Digital Single Market Strategy is central to Jean-Claude Juncker's strategy to create jobs across the 28-nation bloc and the Commission president, in office since November, won cautious plaudits from across EU politics for what remain general ideas.
+
+"Today, we lay the groundwork for Europe’s digital future," said Juncker, who posted a jokey online video for the occasion, seeking to burnish the EU's threadbare populist credentials.
+
+"I want to see pan-continental telecoms networks, digital services that cross borders and a wave of innovative European start-ups. I want to see every consumer getting the best deals and every business accessing the widest market," he said.
+
+Representatives of big U.S. tech companies, however, already smarting from last month's move by the new Commission to pursue Google on antitrust charges, warned against snaring fast-moving industries in ways that would hurt a Europe that U.S. President Barack Obama recently accused of taking a protectionist turn.
+
+"The idea of regulating platforms is ill-conceived," the Computer and Communications Industry Association (CCIA) said in a statement after confirmation of the EU plan to complete a major review of the platform business by the end of the year to assess the value of calls for them to be more tightly overseen.
+
+Such rules could hurt the small European start-ups more than incumbent global giants with big legal teams, the CCIA argued.
+
+E-COMMERCE INQUIRY
+
+As well as the inquiry into online platforms, the EU's competition commissioner confirmed she would investigate the e-commerce sector for possible breaches of antitrust law, especially in relation to postal charges.
+
+European Union leaders reject charges of anti-Americanism in their efforts to reshape online markets at home. But there is no lack of suspicion among European voters and politicians at the power of U.S. tech companies, not least following revelations in recent years that Washington has been spying on its allies.
+
+"Europeanization of digital policy is absolutely the way to go," said Guenther Oettinger, the commissioner for the digital economy. "(It) will give us digital sovereignty which we don't always have."
+
+A German conservative, Oettinger is a vocal critic of U.S. might in a sector where German media companies have, for example, been lobbying to protect content from online giants.
+
+The review of platforms, which had been expected, will focus on the transparency of search results and pricing policies, how platforms use data they acquire, their relationships with other businesses and how fairly they promote their own services.
+
+The overall strategy, laid out by Juncker's vice-president for digital Andrus Ansip, includes a set of initiatives focusing on reforming copyright and national telecoms rules, knocking down barriers to cross-border parcel deliveries and helping start-ups to sell online by simplifying sales tax across the EU.
+
+He aims to deliver on his promises by the end of next year, setting up battles with a variety of industrial interests.
+
+EU telecoms regulations will also be overhauled next year.
+
+Telecom operators welcomed the announcement, saying that reforming the rules would lead to greater investment in Europe's ageing copper networks. But alternative operators warned against tolerating monopoly power to subsidize spending.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+From ways to eavesdrop on brains and learn what advertisements excite consumers, to devices that alleviate depression, the number of U.S. patents awarded for "neurotechnology" has soared since 2010, according to an analysis released on Wednesday.
+
+Most surprising, concluded market-research firm SharpBrains, is that patents have been awarded to inventors well beyond those at medical companies. The leader in neurotechnology patents, according to the report, is consumer-research behemoth Nielsen.
+
+That expansion into non-medical uses, said SharpBrains Chief Executive Alvaro Fernandez, who presented the results at the NeuroGaming conference in San Francisco, shows we are at the dawn of "the pervasive neurotechnology age," in which everyday technologies will be connected to brains.
+
+"Neurotech has gone well beyond medicine, with non-medical corporations, often under the radar, developing neurotechnologies to enhance work and life," he said.
+
+Patents for neurotechnology bumped along at 300 to 400 a year in the 2000s, then soared to 800 in 2010 and 1,600 last year, SharpBrains reported.
+
+Those awarded to medical device company Medtronic PLC, for instance, include ways to use electroencephalography (EEG) to measure the severity of a brain lesion. Several held by medical technology company St. Jude Medical Inc. describe ways to change brain activity to, say, improve vision.
+
+But it is the explosion in non-medical uses, such as controlling video games with brain waves, that is driving neurotechnology.
+
+SharpBrains measured "intellectual property (IP) strength" by number of neurotechnology patents as well as patent quality, reflected in how many other patents reference them, for instance.
+
+By that measure, Nielsen leads the pack, with patents describing ways to detect brain activity with EEG and translate it into what someone truly thinks about, say, a new product, advertising, or packaging.
+
+Microsoft Corp. holds patents that assess mental states, with the goal of determining the most effective way to present information. If software knows a user's attention is wandering, it could hold back complicated material.
+
+Another Microsoft patent describes a neuro-system that claims to discern whether a computer user is amenable to receiving advertisements.
+
+Such patents reflect the enthusiasm for neuro-monitoring, something many scientists say has not been shown to be more effective than, say, asking people what they think about a product.
+
+On a lighter note, an EEG patent awarded to San Jose-based biosensors company NeuroSky describes a design for a headset that could deliver music based on a user's brainwaves, perhaps a ballad when the listener is feeling contemplative.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+New York City programmer Bana Malik was passionate about computers and mathematics from an early age, a video games enthusiast and email user way before many of her male friends.
+
+But early in her studies at New York's Columbia University, Malik took a computer science class and felt out of place in such a male-dominated environment - a common experience for women and minorities seeking work in an industry dominated by white men.
+
+"I didn't see many of the women around me get into this (field), so I felt like I didn't really need this," Malik, 31, told the Thomson Reuters Foundation.
+
+The technology industry is plagued not only by a gender gap but also by a broad lack of inclusiveness that affects minorities too, experts say.
+
+"If you don't have a diverse group (of workers), how are you going to address the needs of a diverse group of people?" Robin Hauser Reynolds, the San Francisco-based director of a documentary on the topic, said in an interview with the Thomson Reuters Foundation.
+
+It wasn't always this way.
+
+Reynolds' documentary film "Code: Debugging the Gender Gap," shows that women played a key role in the early days of computer science and technology.
+
+Ada Lovelace, an English mathematician and Lord Byron's daughter who lived in the 19th century, was one of the first women pioneers in the field.
+
+Computer scientist and U.S. Navy Rear Admiral Grace Hopper is widely credited with creating a groundbreaking programming language in the 1950s.
+
+In the mid-1980s, women accounted for 30 percent to 40 percent of computer science students in the United States. Today that has dropped to about 16 percent, according to data cited by the National Science Foundation (NSF).
+
+Tech giant Google reported that 30 percent of its global workforce were women as of January 2014, while Twitter had a 30 percent global female workforce, and Yahoo 37 percent, according to data from the companies.
+
+WHY SO FEW WOMEN?
+
+Reynolds' documentary, screened at this year's Tribeca Film Festival, delves into the question of why the tech industry has become a "boys' club".
+
+"It's a deeply cultural problem, it's a stereotype problem" that begins early on in the classroom, Reynolds said.
+
+Until the age of about 13 in middle school, girls fare just as well as boys in math and science, but then they stop raising their hand with the right answer, she said.
+
+"Suddenly, they're conscious of their image, they don't want to be the nerdy girls, the smart girls. They want to be the cool and popular girls."
+
+Many young women who enroll in computer science in college feel isolated and out of place and, like Reynolds' daughter, drop out of the course, discouraged by the predominance of the "nerd" or "geek", the young man who spends day and night looking at numbers and code on a computer screen.
+
+"The way the classes are being taught, the make-up of the classes in college, that's part of the pipeline issue," said Reynolds.
+
+Joanne Cohoon, an associate professor of science, technology and society at the University of Virginia, has said that girls are often expected to have interests that are fundamentally different from those of boys, and that this can create a gender imbalance in work like computer science.
+
+If computer science was mandatory in schools in the United States - as it is, for example, in Britain - girls would be more comfortable with the subject from an early age, Reynolds said.
+
+"We should be teaching (girls) that actually you can get into fashion, into film, all sorts of really cool things (with code)."
+
+FILLING THE GAP
+
+The dearth of women and minorities in the tech world also creates an economic problem, she said.
+
+A study cited by the White House said 1.4 million computer science jobs would be available by 2020, but only 400,000 graduates would be there to fill the openings.
+
+"The need (for women) is drastic," said Cohoon, who runs workshops with her husband to help teachers increase the number of girls and minorities taking computer science classes.
+
+Despite the initial hurdles, Malik did pursue a career in computer science and now works at Codecademy, a website that teaches people how to code and to build websites, among other things - and says that half its users are women.
+
+Bonnie Eisenman, a software engineer at Codecademy, said Reynolds' film exposed many of the tech industry's problems.
+
+"If (I) show up to a tech meeting, I am usually asked where my boyfriend is," she said. "It's an environment where people just don't expect you to be there."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
