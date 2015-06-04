@@ -1096,13 +1096,825 @@ Bonnie Eisenman, a software engineer at Codecademy, said Reynolds' film exposed 
 
 "If (I) show up to a tech meeting, I am usually asked where my boyfriend is," she said. "It's an environment where people just don't expect you to be there."
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+American Nobel laureate Irwin Rose, a biochemist whose groundbreaking work helped in the development of treatments for cervical cancer and cystic fibrosis, died on Tuesday, the University of California, Irvine said. He was 88.
+
+Rose won the 2004 Nobel Prize in chemistry, along with Israel Institute of Technology researchers Aaron Ciechanover and Avram Hershko, for research into how cells break down and dispose of old and damaged proteins in plants and animals.
+
+"These findings of the 'kiss-of-death' mechanisms inside cells proved revolutionary, transforming the field of cell biology and ultimately fostering a new understanding of the molecular activity present in cancer and other diseases," the university said.
+
+Errors in the degradation process can lead to diseases such as cervical cancer and cystic fibrosis, the Royal Swedish Academy of Sciences said at the time it made the Nobel award.
+
+Rose died in his sleep in Deerfield, Massachusetts, his family told the university, where he worked during the latter part of his career.
+
+Born in Brooklyn, New York, in 1926, Rose earned a doctoral degree at the University of Chicago in 1952. He spent most of his career at the Fox Chase Center in Philadelphia.
+
+In 1997, Rose took up a special research position with the department of physiology and biophysics at the University of California, Irvine.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A new study to determine the age of iconic old-growth redwoods in California's Muir Woods has revealed that one of the tallest and most famous trees in the forest is much younger than many assumed given its massive size, scientists said on Tuesday.
+
+Tree 76, so named because it towers 76 meters or 249 feet above the forest floor, is 777 years old, much younger than the oldest known redwood, according to a study by Humboldt State University, which has long been working with conservation group Save the Redwoods League on the impact of climate change on the trees.
+
+"Tree 76 is one of the larger trees that you can walk near so I think people have been guessing about its age for a long time," Save the Redwoods League Science Director Emily Burns said. "We know Redwoods can live quite a long time. The oldest one that we know of is 2,500 years old."
+
+Redwoods include the tallest living trees on Earth.
+
+Though visitors often ask the age of the tree in Muir Woods, located in the same area that famously played host to a 1945 United Nations meeting, this is the first time scientists can give an accurate answer, Burns said.
+
+Researchers from Humboldt were able to climb the massive trees last year to take various pencil thin core samples that they can use to compare and determine not only the age of the tree but the structure and biodiversity as well.
+
+The research is aimed at better understanding how climate change and major weather events such as drought impacted the redwoods in the past and how they might be affected in the future.
+
+Burns said that large trees are often thought of as being at least 1,500 years old, but that smaller trees can be much older than the giant redwoods, named for the reddish color of their bark.
+
+"Age and size don't correlate well," Burns said, adding that this is the first time the age of 76 age has been determined by scientists.
+
+Humboldt State University researcher Allyson Carroll, an author of the study, said that previously researchers could not get the age of a standing tree from the ground, primarily because they cannot reach the center of the tree from the ground.
+
+Using the core samples taken from higher up and a formula developed by the researchers, they can now determine a tree's age as well as its climate history, she said.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+They're not likely to start barbecuing in the rainforest, but chimpanzees can understand the concept of cooking and are willing to postpone eating raw food, even carrying food some distance to cook it rather than eat immediately, scientists reported on Tuesday.
+
+The findings, based on nine experiments conducted at the Tchimpounga Sanctuary in Republic of Congo and published in Proceedings of the Royal Society B, suggest that chimps have all the brainpower needed to cook, including planning, causal understanding, and ability to postpone gratification.
+
+They do lack the ability to produce fire. But if they were given a source of heat, chimps "might be quite able to manipulate (it) to cook," said developmental psychologist Felix Warneken of Harvard University, who conducted the study with Alexandra Rosati.
+
+While the finding may seem esoteric, it lends support to the idea that cooking accelerated human evolution. Cooked food is easier to digest, spurring the growth of large brains in our australopithecine ancestors, Harvard's Richard Wrangham proposed about a decade ago.
+
+If chimps have the cognitive skills to cook, australopithecines likely did, too, said Wrangham, who was not involved in the study: "It suggests that with a little extra brainpower, australopithecines could indeed have found a way to use fire to cook food."
+
+Archaeological evidence suggests humans began using fire 1 million years ago.
+
+Some of the experiments confirmed studies by other scientists, such as that chimps prefer seared sweet potatoes to raw. But those tests did not test whether chimps have the mental chops to cook.
+
+Other tests did. For instance, the scientists presented chimps with two containers. One yielded cooked food through a false bottom, not actually cooking, and one did not.
+
+The chimps learned that one transforms potatoes from raw to cooked. Given a choice of which device to put food in, they almost always opted for the "cooker," showing they understood and willingly waited for the raw-to-cooked transformation.
+
+Chimps did not put pieces of wood that scientists gave them into the cooker, suggesting they grasped that only food can be cooked.
+
+Surprisingly, since chimps usually eat food immediately, they were often willing to walk across a room to cook. When the first one did this, the scientists wondered if they had a single "chimpanzee genius," Warneken said. But others showed the same ability, understanding the idea of cooking and postponing gratification to do it.
+
+There was no evidence, however, that they understood the concept of tipping.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+PlanetiQ, a privately owned company, is beginning a key test intended to pave the way for the first commercial weather satellites.
+
+The Bethesda, Maryland-based company is among a handful of startups designing commercial weather satellite networks, similar to what companies like DigitalGlobe, Planet Labs and Google Inc’s Skybox Imaging are undertaking in the sister commercial satellite industry of remote sensing.
+
+“I think weather is the next big market,” PlanetiQ's chief executive and president, Anne Hale Miglarese, said. She estimates the global weather data industry at more than $6 billion.
+
+Although there are already privately held companies that provide weather forecasting services, they rely on data from government-owned satellites.
+
+PlanetiQ plans to fly the first two miniature satellites of a 12-member network next year. The satellites will be launched aboard a non-U.S. rocket and PlanetiQ will provide weather data in exchange for those flights, Miglarese said. She declined to disclose the company or agency providing the rocket launch. Another 10 PlanetiQ satellites are slated for launch in 2016.
+
+PlanetiQ is building the science instrument at the heart of the satellites. The overall spacecraft manufacturer will be disclosed later this month, Miglarese said.
+
+The satellites, which will weigh about 55 pounds (25 kg) each, will be positioned about 497 miles (800 km) above the planet and inclined about 72 degrees north and south of the equator. The satellites will track radio signals from the U.S. Global Positioning System, Russia’s Glasnoss, China’s BeiDou and Europe’s Galileo satellites as they pass through the atmosphere, relative to the PlanetiQ satellites' lines of sight.
+
+The radio signals emitted by the navigation satellites change as they pass through different temperatures, pressures and levels of humidity in the atmosphere. The data can then be incorporated into computer programs that predict local and regional weather and that model changes in the global climate.
+
+GeoOptics and Spire are two other startups planning to build and operate fleets of low-orbiting satellites equipped with so-called GPS radio occultation sensors. Two more startups, Tempus Global Data and HySpecIQ, intend to fly a different type technology, called hyperspectral imaging, to collect similar atmospheric data.
+
+Bills currently pending before Congress would establish a pilot program at the National Oceanic and Atmospheric Administration to buy weather data commercially, among other initiatives to help the nascent industry.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+ST. LOUIS MISSOURI - Against all odds, Elizabeth Marek is alive thanks to a tumor-killing device that attacks brain cancer cells with electric fields. Marek has glioblastoma, a deadly and aggressive form of brain cancer with no cure and a life expectancy of just over two years.
+
+Twenty-six weeks pregnant with her second child, 3 years after a small tumor was found in her brain, Marek began suffering from extreme headaches. She thought it was migraines due to pregnancy.    
+
+"It ended up being a tumor that was the size of my fist on the left side of my brain and it was pushing the left brain into the right brain area," she said. 
+
+A team of oncologists and surgeons at Washington University in St. Louis, Missouri successfully removed the tumor during an emergency surgery and then waited 8 weeks to allow Marek's daughter more time in the womb before starting radiation and chemotherapy treatments. 
+
+After the second round of chemotherapy, a new tumor started forming in Marek's brain. That is when Dr. George Ansstas offered her a chance to be a science experiment.
+
+"I have always wanted to be in science. I didn't know I was going to be an experiment," Marek joked. 
+
+Ansstas fitted Marek with a device called Optune, developed by U.S.-based oncology firm Novocure. A backpack feeds to an array of electrodes attached to Marek's head. Those electrodes create an electric field inside her brain which stops cell division in cancer cells. 
+
+"There are highly charged particles in the cells that play a role in division and if you expose those cells to this electromagnetic field you might disrupt that process and lead cells to death," Ansstas explained.
+
+In clinical trials the device, used in combination with conventional treatments, extended patients lives by an average of three months. 
+
+"Also when we look at those patients at two years about 43 percent of those patients survive, that is something that has not been seen before," Ansstas added. 
+
+43 percent compared to 29 percent with patients that didn't use the device during the trial period. The results of the trial are being presented this week at the American Society of Clinical Oncology annual meeting in Chicago. The device has been approved by the U.S. Food and Drug Administration (FDA) to treat adult patients with recurrent glioblastoma. More than 2000 patients are currently using the device, according to Novocure.  
+
+For Marek the results have been dramatic.
+
+"The first time I got results back after using it for two weeks, I had a 30 percent reduction in my tumor size," she said. 
+
+According to her doctors, Marek currently has no measurable signs of cancer in her brain. She has been wearing the device for a year and says apart from the odd looks, her life is back to normal.
+
+"The only thing that is different about me is that I carry around a backpack that is putting electrodes into my brain. That way if little kids say 'oh what is that for, what is that for'  I say that's my battery for my brain," she said. 
+
+There are no studies about the long term efficacy of her electric cancer fighter and in that sense Elizabeth is a pioneer, counting her blessings and enjoying her family one day at a time. In an effort to continue funding Elizabeth's treatment, the Marek family is collecting donations at www.gofundme.com/goelizabeth.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The Large Hadron Collider (LHC) will start smashing particles together at unprecedented speed on Wednesday, churning out data for the first time in more than two years that scientists hope might help crack the mystery of "dark matter".
+
+The LHC, a 27 km (17 mile) underground complex near Geneva, will smash protons at 13 tera-electron-volts (TeV), almost twice the energy achieved in an initial three-year run that began in 2010. This proved the existence of the elusive Higgs boson particle, a discovery that produced two Nobel prizes in 2013.
+
+Nobody knows quite what the LHC might reveal with its new particle collisions -- mini-versions of the Big Bang primordial blast that brought the universe into being 13.8 billion years ago -- but scientists hope it will produce evidence of what has been dubbed "new physics".
+
+This concept includes "dark matter", thought to make up some 96 percent of the stuff of the universe while being totally invisible, and super-symmetry, or SUSY, under which all visible particles have unseen counterparts.
+
+"The only thing we really know is that there is 'new physics' because the model that we have is not complete," said Luca Malgeri, a scientist working at the European physics research center CERN.
+
+"It might be linked to dark matter or it might not. It might be linked to something totally new."
+
+In a brief statement on Tuesday, CERN said the LHC would begin early on Wednesday morning "delivering physics data for the first time in 27 months".
+
+If there is a particle missing from current knowledge of the building blocks of the universe, CERN scientists hope that it might be spotted, even fleetingly, in the debris of the billions of collisions, just as the Higgs boson was.
+
+The first results might come early, Malgeri said, because the LHC already searched for smaller particles on its previous run, and a bigger particle might show up quickly, if high energy collisions are the key to its existence.
+
+It may have extremely weak interaction with other forces, which might explain why it had never been observed before.
+
+"MILLION DOLLAR QUESTION"
+
+The CERN scientists would hope to detect any dark matter by noticing that some energy was missing after the collision, which would betray the existence of such a particle, Malgeri said.
+
+If the hoped-for particle is only created very rarely, it may take many more collisions to find it, which is why the number of collisions - the LHC's "luminosity" - will increase over the next three years until it is 10 times brighter than on its first run.
+
+Whether anything will be observed, however, is anybody's guess.
+
+"This is the million dollar question," Malgeri said. "We are wide open. After the first run of the LHC, all possibilities are equally probable for new physics."
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Scientists have documented in Florida a series of "virgin births," reproduction without mating, in a critically endangered sawfish species pushed to the brink of extinction by over-fishing and habitat destruction.
+
+The scientists said on Monday it marks the first time the phenomenon called parthenogenesis has been seen in a vertebrate in the wild. Some females may be resorting to asexual reproduction because smalltooth sawfish numbers are so low mating opportunities may not exist, they said.
+
+"There have been a number of cases in reptiles, birds and sharks of 'virgin birth' in captivity," Stony Brook University marine biologist Andrew Fields said. "This raises many questions about how common this mode of reproduction is in the wild."
+
+In parthenogenesis, a female's egg cell can develop into a baby without being fertilized by a male's sperm cell.
+
+In making an egg cell, a precursor cell divides into four cells. The one that eventually becomes the egg cell retains key cellular structures and the gel-like cytoplasm. The other three hold extra genetic material.
+
+In parthenogenesis, one of those cells essentially acts as a sperm cell and fuses with the egg. This "fertilized" egg possesses about half the mother's genetic diversity, a trait allowing parthenogenesis to be detected through genetic testing.
+
+Smalltooth sawfish are born and live for about three years in southwest Florida estuaries before moving into ocean coastal habitats.
+
+The researchers were investigating sawfish inbreeding when they discovered seven, all healthy, born via parthenogenesis, about 3 percent of those examined.
+
+"It really surprised us," said Kevin Feldheim, manager of the Pritzker Laboratory for Molecular Systematics and Evolution at Chicago's Field Museum. "It is possible that numbers are so low that females have a hard time finding mates. In such a situation, parthenogenesis can be used as a last-ditch effort for a female to pass on her genes."
+
+Florida Fish and Wildlife Conservation Commission fish biologist Gregg Poulakis said the sawfish came from the Peace and Caloosahatchee rivers, which feed the Charlotte Harbor estuary system.
+
+Sawfish, a type of ray, have a flattened shark-shaped body and a long, flat snout with pairs of teeth on the side used to find, stun and kill prey. They grow up to 18 feet (5.5 meters) long.
+
+Their population collapse follows habitat loss and "unintentional" over-fishing, being caught in nets targeting other species. They received U.S. federal endangered species protection in 2003.
+
+The research appears in the journal Current Biology.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Estonian company Terramil has begun manufacturing easy-to-instal mobile bomb shelters for those concerned about attack threats.
+
+The manufacturers say they are light and easy to set up in any place, in a very short time -- although a digger is still needed.
+
+An individual section of bomb shelter weighs about two tonnes. Its manufacturers say there is no need for any specific equipment or a crane to set up the shelter, other than a normal excavator as used on a building site.
+
+"The installation of this certain unit here took about one hour and 30 minutes. And this started, time started from when we started unloading from the truck and this time stopped when everything was covered up and this was completely on place installed, covered and people are ready to go, so truck left," Terramil's Peeter Kirtsi said.
+
+The main manufacturing material is plastic, but the shelter's creators refuse to reveal more detailed information on its components.
+
+Despite its relative ease of transport and installation, the shelter still has to be dug in underground, demanding an appropriate location with an ample soil covering.
+
+"It unites three different specific things that help this unit to stay bombproof. It means that the unit itself, the material of the unit, the profile that we have used here and also the soil cover. So this system interacts with the soil, and it... plays as one complete system in order to protect the people inside," Kirtsi added.
+
+In the demonstration model, set up by Terramil in the Estonian armed forces' training ground, there are beds for 12 people, although clients can choose to alter the shelter module according to their own wishes -- for example, lessening the number of beds to equip the shelter with more amenities. It is also possible to add modules to consist of generators, refrigerators, staff storage and other necessities for emergency situations, up to the size of what Terramil equate to an underground town.
+
+The manufacturers have tested the resistance to impact with the help of local armed forces and U.S. soldiers, who have both targeted the shelter with bombs during training. The nearest aviation shell exploded about four meters from the bomb shelter, which endured the blast.
+
+"This two-meter depth unit was designed for 155-millimetre howitzer shells. We have tested it now against a range of different weapons, starting from mortars 81 mm and ending up with different howitzer classes and the biggest of them being 155 and as you can see there is no damage here. In order to get better results we have also had some local charges planted on top of the shelter and on the sides of the shelter and we have measuring equipment inside to measure the pressure, vibration, sound levels, everything like this that can be dangerous for people inside. And again we have had no damage to the shelter so far," Kirtsi said.
+
+Terramil began selling the mobile bomb shelters this year, and say the interest they have received is vast, both from well-off locals and clients in the Middle East and beyond.
+
+The demand for such shelters in Estonia has increased due to the crisis in Ukraine, although its creators point out that the project started long before the developments in the region.
+
+"Every region where there is some crisis at hand or there is some potential danger... then you can just protect yourself and start developing these systems to hide away something to get the protective systems done. So basically every area where is some kind of danger," Kirtsi said.
+
+"We have sold one of those to Estonia already. So there is a demand," he added.
+
+The price of one 12-bunk, moderately equipped bomb shelter is about 18,000 euros (19,750 USD). Depending on the equipment and the number of modules, the price of a custom-designed bomb shelter would be considerably more.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+For Easton LaChappelle, a 19-year-old from Colorado in the United States (U.S.), the difficulty with robotics has never been the technology itself - something he says he managed to master in a matter of months from his bedroom in his parent's house - but the cost.
+
+The technology used by most robotic arms and hands on the market - and many more of those in development - typically comes with large overheads.
+
+In the last five years, though, learning almost exclusively online in forums and emails, LaChappelle has managed to synthesize a series of robotic hands that could change industries and lives - and most of which cost just a few hundred dollars.
+
+While other developments in countries like Austria and Argentina have pushed the boundaries of prosthetic offerings, helping those missing limbs to start to regain use of them with robotics, LaChappelle has done so using 3D printing.
+
+And he's made one that he says can read your mind. It's called Anthromod.
+
+"This reads right about 10 channels of the brain, so it kind of works kind of like a muscle sensor in that it picks up small electric discharges and turns that into something you can actually read within software, and then we actually track patterns and try and convert that into movement. So with this I'm actually able to change grips, grip patterns, based on facial gestures, and then use the raw actual brainwaves and focus to actually close the hand or open the clamp or hand," he told Reuters Television.
+
+One of the most important aspects of the Anthromod design is the way in which it's controlled by the software, which LaChappelle says is different from the types of control that exist in other robotic platforms.
+
+While it's the hand itself that moves, as more advanced controls are created it's the software that's doing the heavy lifting, using algorithms that make the arm easier to use.
+
+"A good example is we actually had an amputee use the wireless brainwave headset to control a hand, and he was able to fluently control the robotic hand in right around about 10 minutes, so the learning curve is hardly a learning curve any more," he said.
+
+The arms themselves might not look polished and ready for the shop floor - but LaChappelle sees them as cutting edge.
+
+His robotic arms are all prototypes, each fulfilling a different need according to their design, with some using a wireless brainwave headset, designed more for prosthetic use. Another of his tele-robotic controlled hands was created with dangerous environments in mind, where human-like robots could be sent to allow people to monitor situations and intervene from afar.
+
+"I really tried to make this as human-like as possible - this is probably about my fifth generation of the full robotic arm, and this is controlled using a full tele-robotic system, so there's actually a glove that you wear that tracks your hand movements, accelerometers to track your wrist and elbow, and then an IMU sensor as well to track your bicep rotation as well as your shoulder movement, and that gets all translated wirelessly to the robotic arm where it will copy what you do," he said.
+
+One of the most impressive aspects of the arm is not the hardware itself, or even the software that controls it - but the fact that it can be 3D printed for a fraction of the cost of modern prosthetics.
+
+This allows him to make complex internal structures to the designs which would otherwise be impossible, using not just any 3D printer, but precisely the kind many expect people to have at home in the near future.
+
+"So 3D printing allows you to create something that's human-like, something that's extremely customized, again for a very low cost, which for certain applications such as prosthetics, is a really big part of it," he told Reuters.
+
+"The full robotic arm is actually open source, and so people are now actually able to take this, reproduce it, and adapt it for different situations, applications, and really see what you can do with it," he added.
+
+The Anthromod itself cost only about 600 dollars to make, LaChappelle said.
+
+His work is documented in the videos he made at home, showing his handiwork - all part of his effort at making the invention open source - which means anyone can take his technology and customize and build on it.
+
+The idea, he said, is not to create something that can solve problems for those with prostheses and other needs for robotic arms like the ones he's invented - but rather to create a platform that people around the world can use to customize their own versions of to suit their needs.
+
+"A big reason we designed this on the consumer level is because we made this open source, we want someone that has a 3D printer, or very little printing experience, to be able to replicate this, to be able to use this for new applications, to be able to adapt it into new situations, so it's really exciting to see what people will start doing with something like this," he said.
+
+"For the actual arm, we designed everything to be modular, meaning all the joints can actually interchange, and there's a universal bolt pattern. So you can now create something human-like, or you can create a big 20 degree freedom arm for complex filming or even low cost automations. So we really want to make a robotics platform, not so much just a robotics hand from this," he added.
+
+LaChappelle hopes his efforts will contribute to developments in bomb defusal robots, heavy equipment and heavy industrial automation robotic arms, as well as exoskeletons.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+A solar-powered plane attempting a round-the-world flight will cut short the seventh leg of its 35,000-km global (22,000-mile) journey, landing in Nagoya, western Japan, due to bad weather.
+
+The plane will land at a small airport in Nagoya around midnight local time, one of the project's organisers told Reuters.
+
+The Solar Impulse 2, a solar powered plane, left Nanjing, China on Sunday to fly over the Pacific Ocean to Hawaii. The plane, which is covered in solar cells, took off from Abu Dhabi in March.
+
+The journey across the Pacific Ocean was expected to be the most difficult stretch of the journey.
+
+Overall, the trip was expected to span approximately 25 flight days broken up into 12 legs at speeds between 50 and 100 kph (30 to 60 mph).
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Israeli medical experts have developed a wearable mobile monitor to keep a close watch on pregnant women and their fetuses as they go about their everyday lives.
+
+The PregSense monitor has sensors woven into an elastic harness to provide data around the clock on the status of the fetus and the mother's health in the later stages of pregnancy.
+
+A bluetooth-enabled device attached to the monitor collects and transmits data such as the mother and baby's heart rates to a smartphone and stores it on a secure cloud-based database accessible only to expectant mothers and their physicians.
+
+The device is the work of the Nuvo Group, led by Oren Oz. He says a smartphone app will eventually provide a visual representation of the data gathered by the wearable monitor.
+
+"Now you can see both you and the baby, the heart and all the data. What you are going to get in the app eventually is visualization that can tell you where the hand is, you're going to see if the baby is awake, you can hear your baby's heartbeat anytime you want and obviously everything about you as the mom, the activity, if you are relaxed, how you sleep, your activity, your heart activity, everything about your pregnancy will be put into data," he explained as he demonstrated the device for mother-to-be, Michal.
+
+Oz founded the Nuvo Group with another pregnancy technological innovation, Ritmo, a strap allowing mothers to stream soothing music from a smartphone to gently stimulate the fetus.
+
+The Israeli tech firm hopes the device will reassure anxious mothers like Michal, in week 32 of her pregnancy, who require monitoring without having to see her doctor.
+
+"It connects me a lot more with the fetus, I'll hear the fetus whenever I want and it will be easier for me. I also won't have to be dependent on a doctor, at any given time I'll be able to connect, to see and hear," Michal said.
+
+The PregSense strap is designed to collect data to help physicians detect symptoms that may lead to complications in pregnancy earlier.
+
+"It's the first time that you have a huge amount of data of women and babies together about heart rate, kickings, position for fetus etc and we will be able to analyze this data to predict about events of pregnancy, like pre-term labor like pre-eclampsia and more and we will be able to intervene in the right time," said Varda Shalev, a medical informatics expert and active care primary physician. She is an external consultant to the Tel Aviv-based Nuvo Group.
+
+The PregSense monitor does not use ultrasound like traditional doppler devices, which require pregnant women to lie still while physicians manually track the heartbeat of the fetus. The sensors use a patented algorithm to filter the signals it picks up into two heartbeat recordings.
+
+Its developers say the passive sensors avoid the potential harm to tissue posed by ultrasonic devices and is perfectly safe for both the mother and baby during continuous monitoring.
+
+The data collected is of high enough quality to be useful for clinicians and researchers.
+
+"The sophistication of the technology and the sophistication of the sensors that we had designed for that is really making what used to be clinical data collection into passive continuous reliable home data collection," said Professor Nathan Intrator, a bio signal expert and chief technology officer for Nuvo Group . 
+
+Nuvo Group's advisory board member Professor Simcha Yagel, who also heads the division of obstetrics and gynecology at Hadassah, Hebrew University Medical Centers, said the electrocardiogram (ECG) provides the added value to the device.        
+
+"I think the new achievement of Nuvo is in the field of detection of the ECG traces of the fetus, not only the sound not only the ultrasound but truly an electronic ECG," he told Reuters during a routine ultrasound scan for a pregnant woman in hospital.
+
+Oz said doctors would appreciate not having to use traditional heavy machinery, such as the cardiotocography (CTG) or electronic fetal monitor (EFM) machines to trace the fetal heartbeat. Instead, they could track and diagnose patients remotely, allowing quick detection and intervention.
+
+"The immediate impact, the immediate benefit to doctors is that we are replacing the bulky CTG machines which are heavy  and connected to the wall with the light weight mobility and continuous monitoring." said Oz.
+
+The consumer version of the product, known as Ritmo Beats, is to be launched for users by the end of 2015 and will cost around $250 USD, Oz said. The clinical grade FDA-regulated device, to be teamed with a group of physicians to monitor the data and alert the mother of any unexpected events, has a 2016 launch target.
+
+Oz is certain his invention will change pregnancy care management and "bring better care to more women at a fraction of the cost". 
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Agility ladders, a staple of sports training when victory can hang on the athlete's ability to turn quickly, have moved into mainstream gyms where fitness experts say they are helping everyday exercisers be nimble and quick.
+
+Jumping, running, marching and hopscotching through the grids on the floor have become an added feature in personal training and group fitness classes.
+
+Will Elson, personal training manager at New York Health and Racquet Club in New York City, said the ladders also make a great addition to circuit training and can help to strengthen joints, ligaments and tendons while elevating the heart rate.
+
+“It boosts cardio with fast foot strikes and knee lifts, while incorporating balance and joint stability,” said Elson. “It also has the benefits of working on coordination. And it’s fun in a confined space.”
+
+Agility is the ability to change the body's position quickly, efficiently and with control. A study in the December 2013 issue of the Journal of Strength and Conditioning Research found that agility training can also enhance cognitive skills, such as memory and vigilance.
+
+Elson likens agility training to learning a new language.
+
+"It’s a great exercise to force someone to focus, to learn a movement pattern and be able to execute it without looking down,” he said. “The body is learning something new.”
+
+Jonathan Ross, spokesperson for the American Council on Exercise, believes agility training is also a valuable skill for non-athletes.
+
+“It actually develops eye-foot coordination where you’re able to move through a discretely defined space,” explained the Washington D.C.-based trainer and author of “Abs Revealed.”
+
+“Most people don’t target foot placement,” he added. “Most people will look down but in sports you can’t be looking down. You have to focus upward."
+
+Foot drills on agility ladders can range from simple walking between rungs to complex skipping of spaces and sideways shuffles. But Ross suggests conquering two or three basic drills before tackling new ones.
+
+“A common mistake is going too quick too soon,” he said. “It’s like riding a bike. People get nervous about making a mistake but it’s not that difficult to learn as long as they don’t get too stuck in their own head.”
+
+Elson also warned that all agility ladders are not same and there is no standard size.
+
+"One needs to take into account the height of the person and the size of the boxes,” he said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Dinosaurs, those bygone masters of the planet, were warm-blooded just like today's mammals, according to a scientist who judged their metabolism using body mass and growth rates deduced from fossils of species including Tyrannosaurus rex.
+
+Paleontologist Michael D'Emic of Stony Brook University in New York took issue with the conclusion of other researchers last year that dinosaurs were neither cold-blooded nor warm-blooded, but had a metabolism somewhere in between.
+
+Scientists have debated since the 19th century whether dinosaurs were slow, lumbering, cold-blooded creatures, as originally thought, or boasted a more warm-blooded physiology allowing for a vigorous lifestyle.
+
+"The main point of my study is that the dinosaurs that have been studied so far were on average as warm-blooded as mammals living today," said D'Emic, who argued that the 2014 study under-estimated dinosaur growth rates and should have analyzed dinosaurs statistically within the same group as today's birds.
+
+Birds, which evolved from small feathered dinosaurs roughly 150 million years ago, are warm-blooded.
+
+The researchers in last year's study evaluated the metabolism of 21 dinosaur species using a formula based on their body mass, as revealed by the bulk of their thigh bones, and their growth rates, indicated by growth rings in fossil bones akin to those in trees. The species included predators like T. rex, long-necked and duckbilled plant-eaters and others.
+
+They compared this information to data on living mammals, birds, fish and reptiles.
+
+D'Emic re-analyzed the same data to reach his conclusions, published in the journal Science.
+
+The authors of last year's study on Thursday disputed D'Emic's conclusions. "We disagree with his central criticisms and we emphasize that all of our original conclusions stand," said University of New Mexico biologist John Grady.
+
+"Comparing dinosaur growth with the observed growth rate of living vertebrates clearly shows that non-avian dinosaurs were mesotherms," added Grady, using the term for an intermediate metabolism.
+
+Warm-blooded land animals like mammals and birds have never achieved the size of the biggest dinosaurs. But D'Emic said merely being warm-blooded would not have prevented dinosaurs from getting large although they may have needed adaptations to prevent their huge bodies from over-heating.
+
+"The Earth was generally warmer during the time of the dinosaurs, and so overheating could have been a problem for them. However, most large dinosaurs had some hollow, air-filled bones in their skeleton and likely had large air sacs in other parts of their bodies, just like birds today," D'Emic said.
+
+This provided a "natural ventilation system" within their bodies that helped to keep them cool, D'Emic said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Amid evidence of fraud in a high-profile study on how canvassers can convince people to back same-sex marriage, the journal Science, which published the study, retracted it on Thursday.
+
+The senior author agreed to the retraction, Science editor-in-chief Marcia McNutt said in a statement on the journal's website. The graduate student accused of making up data, lying about funding and other violations has not.
+
+The study, which received widespread coverage when it was published, tested a longstanding theory in social science that contact with targets of prejudice can reduce intolerance.
+
+Specifically, the study examined whether door-to-door canvassers who identify as gay can convince people to support same-sex marriage and do so more effectively than heterosexual canvassers.
+
+The authors, UCLA graduate student Michael LaCour and Columbia University political scientist Donald Green, concluded that canvassers who tell voters that they are gay can indeed change minds on same-sex marriage. That result, the authors said, was based on a survey of some 9,500 people in California.
+
+When other scientists were unable to replicate key aspects of the study, they began digging into it, including contacting the polling company that reportedly did the 9,500-person survey.
+
+The firm, Qualtrics, claimed it "had no familiarity with the project" and "denied having the capabilities to perform many aspects" of the survey LaCour and Green described, graduate students David Brockman and Joshua Kalla of the University of California, Berkeley, wrote in a timeline they posted online.
+
+In her retraction notice, McNutt said that the Green and LaCour paper had lied about paying people to participate in the supposed survey, lied about being funded by prominent groups including the Ford Foundation and failed to produce the original data it was based on.
+
+Last week Green asked that the paper be retracted, telling Science in a letter that he was "deeply embarrassed by this turn of events and apologize to the editors, reviewers, and readers" of the journal.
+
+LaCour has not agreed to have the paper retracted, McNutt said. He has said he stands by the reported findings and told the Retraction Watch blog last week that he "will supply a definitive response" to the allegations and is "gather(ing) evidence and relevant information."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Pittsburgh, Pensylvania - Researchers have taken their serpentine machines, developed over decades at Carnegie Mellon University in the United States, and connected them to a central hub to create one of the most robust robots ever developed. Its creators have named it the Snake Monster. 
+
+At the technology's core, says robotics professor Howie Choset, are modules which connect to each other, allowing researchers to easily assemble and program task-specific robots in minutes. 
+
+"These modules that we have designed and other modules to be designed, they are like a smart Lego set. We are able to put the modules together as easy as Lego, but there is a lot going on underneath the hood to allow that to happen," Choset said. 
+
+Each module has the computing power to control the entire robot. The pieces can be screwed together to form machines of various sizes and functionality. Once connected the modules communicate via ethernet.
+
+Choset says robots that can be easily assembled could potentially have a huge impact on how search and rescue operations are carried out in the future. He imagines a snake monster robot walking over rubble in a disaster zone, using its wheels to roll down a hill and then one of its legs to slither into a damaged building to search for survivors.
+
+While the ultimate goal is to program these machines to work autonomously, Choset says humans will be able to control them using a robotic twin which will give an operator a 'hands on' interface to control the robot remotely.           "We built a force feedback master slave arm where the master controls one robot and the slave moves as the master requires," Choset said, adding that the tasks these types of robots can perform are only limited to what developers can dream up to task them with. The Snake Monster can take a beating as well. 
+
+"That robot is field deployable. You can take that robot and throw it around, it's robust. You can kick it and it is still going to work," said Choset. 
+
+To test how quickly these modular robots can be assembled and programmed, one member of the team built and programmed one to feed him lunch. The entire process took less than 20 minutes, a delicious result for a robot with massive potential.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Scientists battling a bee-killing disease are about to start testing a new weapon -- a sun-heated hive designed by a Czech high school teacher.
+
+Roman Linhart told Reuters he had secured a patent for his invention after 10 years of research into ways of wiping out varroosis disease, which has been destroying bee colonies across the world.
+
+The stakes are high, as the death of bees threatens harvests which rely on the insects for pollination.
+
+The teacher at Chrudim's Secondary School of Agriculture, 120 km (75 miles) east from Prague, joins a line-up of experts who have been trying to find an efficient way to tackle the condition for decades.
+
+Experts from Czech Republic's Palacky University said they were about to start trialing Linhart's method -- which aims to kill the Varroa destructor parasite responsible for the disease by heating up hives to 40 degrees Celsius (104 F) and higher.
+
+"Scientific probes will be performed in the summer. Some beekeepers have tested the method and it had the declared parameters," said Professor Vitezslav Bicik, of the university's zoology department.
+
+Bee keepers have tried using heat before. But their efforts have been hampered by difficulties in powering the heating units in often remote locations and making sure the bees themselves are not harmed by the high temperatures.
+
+Up to now they have often resorted to removing the entire population before heating the hive, a tricky and time-consuming procedure.
+
+Linhart, a bee keeper himself, said he got round the problems by using just the power of the sun for his thermosolar hive, and a technique that heats the hive through the glass top for about two hours.
+
+According to the plans, the heat slowly builds up in black-painted metal sheets inside the insulated hive, paralyzing, sterilizing and eventually killing the mites but leaving the bees unharmed.
+
+"With this, you can take 100 hives, or as many as you have, and work simultaneously on all of them," Linhart said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+This 430,000-year-old case may be the world's oldest murder mystery.
+
+Scientists on Wednesday said a fossilized skull discovered deep inside a Spanish cave shows telltale signs of homicide: two fractures inflicted by the same weapon.
+
+The skull, belonging to a primitive member of the Neanderthal lineage, was found in an apparent funerary site down a shaft in the appropriately bleak-sounding Sima de los Huesos, Spanish for "Pit of the Bones," in the Atapuerca mountains.
+
+The skull shows that our species, Homo sapiens, cannot claim a monopoly on murder.
+
+"This individual was killed in an act of lethal interpersonal violence, providing a window into an often-invisible aspect of the social life of our human ancestors," said paleontologist Nohemi Sala of Madrid's Centro Mixto UCM-ISCIII de Evolución y Comportamiento Humano.
+
+This oldest-known example of murder occurred 230,000 years before our species first appeared in Africa.
+
+"Based on the similarities in shape and size of both the wounds, we believe they are the result of repeated blows with the same object and inflicted by another individual, perhaps in a face-to-face encounter," Sala added.
+
+Remains of nearly 30 individuals were found at the bottom of the 43-foot (13-meter) shaft.
+
+The murder victim suffered two penetrating fractures on the forehead's left side, above the eye. Using forensic methods like those employed by police, the researchers interpreted the wounds, each nearly an inch (2 cm) wide, as evidence of blunt-force trauma occurring around the time of death.
+
+"We have examined the bone microscopically and used CT scans," added paleontologist Juan Luis Arsuaga of the Universidad Complutense de Madrid.
+
+Sala said the weapon may have been a wooden spear, stone spear tip or stone hand-axe.
+
+The presence of a notch at a similar location in the outlines of both fractures indicates they were caused by the same object. "Since either of these wounds would likely have been lethal, penetrating the brain, the presence of multiple wounds implies an intention to kill," Sala said.
+
+Arsuaga said the victim was a young adult. Whether it was a man or woman is not clear.
+
+The motive and perpetrator are unlikely ever to be known.
+
+"Unfortunately, the intentions do not fossilize, so it is impossible to interpret the motivation of the killing," Sala said. "Not even Sherlock Holmes could help us in that."
+
+The research appears in the scientific journal PLOS ONE.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The U.S. Air Force on Tuesday said it has certified privately held SpaceX to launch U.S. military and spy satellites, ending a monopoly held by United Launch Alliance, a joint venture of Lockheed Martin Corp and Boeing Co, since its creation in 2006.
+
+The decision follows two years of discussions, reviews and legal disputes between the U.S. Air Force and Space Exploration Technologies, known as SpaceX, and means the company founded by entrepreneur Elon Musk, can compete for national security launches with its Falcon 9 rocket.
+
+"SpaceX's emergence as a viable commercial launch provider provides the opportunity to compete launch services for the first time in almost a decade," Air Force Secretary Deborah James said in a statement.
+
+Leveraging SpaceX's investment in an alternate launch vehicle would help drive down the cost and help improve the U.S. military's resiliency, James said.
+
+SpaceX's first opportunity to compete against ULA would come in June, when the Air Force said it expects to kick off a competition for launches of additional Global Positioning System III satellites built by Lockheed.
+
+The certification, initially expected last December, followed two years of intensive reviews by the Air Force and SpaceX, which already has won significant contracts with NASA to launch cargo and crews to the International Space Station.
+
+The Air Force said it spent more than $60 million and dedicated 150 people to the effort, which included 2,800 discreet tasks, three certification flight demonstrations, 21 major subsystem reviews and 700 audits aimed at establishing a technical baseline for future flight worthiness determinations.
+
+Musk called the decision "an important step toward bringing competition to national security space launch."
+
+Senate Armed Services Committee Chairman John McCain said he hoped SpaceX's certification would bring down what he called "unjustifiably high" launch costs and end U.S. reliance on Russian-built RD-180 engines that power ULA's Atlas 5 rocket.
+
+The U.S. Congress has banned the use of Russian engines for national security launches after 2019. It passed the law after Russia's annexation of Ukraine's Crimea region last year.
+
+James called the news "an important milestone" for the Air Force and the Pentagon. An independent review in March cited a "stark disconnect" between the two sides about the purpose of the certification process, and said the Air Force's approach had stifled the very competition it was seeking to promote.
+
+SpaceX had shocked Air Force officials when it filed a lawsuit in April 2014 to protest its decision to award 36 rocket launches to ULA while delaying competition for 14 contracts that were meant to be open to competition.
+
+The company dropped its lawsuit in January after the two sides agreed to work collaboratively to wrap up the certification process.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The White House said on Tuesday the ethical issues associated with gene-editing on the human genome need further study by the scientific community and should not be pursued until issues are resolved.
+
+"The administration believes that altering the human germline for clinical purposes is a line that should not be crossed at this time," John Holdren, director of the White House Office of Science and Technology Policy, said in a statement.
+
+The technology, which has the potential to create "designer babies," ignited an outcry from scientists last month when it was used in China to alter the DNA of human embryos.
+
+"Research along these lines raises serious and urgent questions about the potential implications for clinical applications that could lead to genetically altered humans," Holdren said in the statement on the White House website.
+
+"The full implications of such a step could not be known until a number of generations had inherited the genetic changes made - and choices made in one country could affect all of us," he said.
+
+The National Academy of Sciences said last week it would convene an international summit this fall to explore the ethical and policy issues associated with the research and appoint an international committee to recommend guidelines for the technology.
+
+The White House supports the review, Holdren said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Facebook's Chief Operating Officer Sheryl Sandberg took to the social media site on Wednesday to say she felt "thirty years sadder" after the 30-day mourning period she observed following her husband's sudden death.
+
+Sandberg's husband, SurveyMonkey Chief Executive Dave Goldberg, died on May 1 after falling off a treadmill during a vacation in Mexico.
+
+Sandberg posted an online tribute four days after the death of Goldberg, who built a company valued at $2 billion. She has also periodically shared posts about her mourning and pictures of Goldberg.
+
+Her 1,731-word post Wednesday marked the end of sheloshim, the traditional Jewish 30-day period of mourning for a spouse.
+
+"I have lived thirty years in these thirty days," Sandberg wrote. "I am thirty years sadder. I feel like I am thirty years wiser."
+
+Sandberg also said Goldberg's death helped her gain a "more profound understanding of what it is to be a mother," and that she rejoiced that her children were alive each day.
+
+She ended the post with lyrics from Bono, who sang at Goldberg's Silicon Valley memorial service last month.
+
+"'There is no end to grief ... and there is no end to love,'" she posted. "I love you, Dave."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+New York state issued on Wednesday extensive new rules for companies that operate in virtual currencies such as bitcoin but did little to accommodate complaints that overly tight regulation could hamper the nascent industry.
+
+The new rules, the first by a state, create comprehensive guidelines for regulating digital currency firms, according to the state's Department of Financial Services, which developed the regulations.
+
+It means that digital currency companies operating in New York state that hold customer funds and exchange virtual currencies for dollars or other currencies are required to apply for what is known as a state "BitLicense."
+
+"There is a basic bargain that when a financial company is entrusted with safeguarding customer funds and receives a license from the state to do so, it accepts the need for heightened regulatory scrutiny to help ensure that a consumer's money does not just disappear into a black hole," Benjamin Lawsky, superintendent of the New York state regulator, said in a speech Wednesday at the BITS Emerging Payments Forum in Washington.
+
+The "BitLicense" rules include consumer protection, anti-money laundering and cybersecurity protections.
+
+The regulations come as digital currencies have drawn criticism for attracting drug dealers and other criminal elements, while failing to safeguarding consumer funds.
+
+Last year, bitcoin exchange Mt. Gox collapsed after it claimed to have lost $500 million worth of customer bitcoins after being hacked.
+
+Overall, industry participants said New York's new rules are still problematic but nonetheless an improvement over the original proposals laid out in July and revised in December.
+
+Digital currency companies are required to obtain prior approval for material changes to their products or business models, such as wallet firms offering exchange services. They would also need approval for new controlling investors.
+
+But they would not need approval from the state for every round of venture capital funding or standard software updates.
+
+"We have no interest in micro-managing minor app updates. We're not Apple," said Lawsky.
+
+Companies that want both a BitLicense and a money transmitter license can work with the state regulator to have a "one-stop" application submission to cover the requirements for both.
+
+Jerry Brito, executive director of non-profit research group Coin Center, called the final regulations "far from perfect," specifically citing what he said were vague state-level anti-money laundering obligations that go beyond federal regulations.
+
+He said the group was working with other states "to ensure they do not repeat the mistakes made here."
+
+The rules do not apply to software developers, individual users, customer loyalty programs, gift cards, currency miners, or merchants accepting bitcoin as payment.
+
+Lawsky, meanwhile, has come under fire from the bitcoin community for issuing the rules shortly after announcing he was leaving the agency to set up a consulting company that will advise companies on financial matters that could possibly include digital currencies.
+
+The most prominent virtual currency now is bitcoin, often used as an investment or to pay for goods and services online.
+
+Bitcoin prices have been steady of late, at $225.77 on the BitStamp platform on Wednesday. The price rose as high as $1,123 in December 2013.
+
+"I think (the rules) are going to increase the costs to entry for businesses," said New York attorney Reuben Grinberg, who specializes in virtual currency. "But I think it's going to give consumers greater peace of mind and will end up promoting investment in this area much more so than it hurts."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Yahoo Inc will broadcast the Oct. 25 National Football League game between the Buffalo Bills and Jacksonville Jaguars in London in the first live-stream of an NFL game.
+
+The International Series game will be streamed exclusively free of charge on Yahoo sites including Yahoo Sports, Yahoo Screen and Tumblr, Yahoo and the NFL said on Wednesday.
+
+Yahoo and the NFL did not disclose terms of the deal.
+
+Technology news site Re/code, however, reported that Yahoo paid at least $20 million for the streaming rights, citing industry executives familiar with the negotiations.
+
+Yahoo will have exclusive advertising rights to the game, which will also be available in a 30-minute on-demand version, Senior Vice President of product and engineering Adam Cahan said in an interview.
+
+The on-demand version will include commercials that viewers would not be able to skip.
+
+Yahoo was hopeful of more such partnerships in the future, Cahan said. The company has been trying to fight stalling revenue growth by turning towards video ads as its once-hot Web portal and email service lag those of rivals such as Google Inc.
+
+It bought automated advertising service BrightRoll for $640 million in November, saying the deal would make its video ad platform the largest in the United States.
+
+The Oct. 25 game will also be telecast in the Buffalo (WIVB-TV) and Jacksonville (WTEV-TV) markets.
+
+A decision on whether the NFL will partner with streaming service providers for future games has not been made, spokesman Alex Reithmiller said.
+
+"This is a first step ... taking this first step is a signal that there will probably be other steps to come," he said.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Three Google Inc (GOOGL.O) compensation committee members were re-elected on Wednesday, the technology company said at its annual meeting, despite a challenge from a high-profile proxy adviser that raised concerns over executive pay.
+
+Google did not immediately detail by how much of a margin the directors won re-election at the meeting, which was webcast. Proxy adviser Institutional Shareholder Services had recommended that Google shareholders withhold votes for the three directors, saying "mega grants" provided to Executive Chairman Eric Schmidt and Chief Business Officer Omid Kordestani were "problematic."
+
+ISS recommended that votes be withheld for Google compensation committee members John Doerr, Paul Otellini and Ram Shriram. ISS also recommended investors withhold votes from Google director John Hennessy, president of Stanford University, citing what it said is his role as a non-independent member of the board's nominating committee.
+
+The recommendations were unusual for ISS, which urged votes against directors at S&P 500 companies only 3 percent of the time in 2014.
+
+Google said all its director candidates won election. Several shareholder proposals were also defeated at the meeting, Google said, including proposals to require a majority vote standard for the election of directors and to report on the costs of renewable energy investments.
+
+Google awarded Schmidt $100 million in restricted stock units last year - the second time in less than three years that the company's former CEO has received an equity award of that size.
+
+Kordestani, who was re-hired in October to become chief business officer, received a $60 million equity award and a one-time $65 million supplemental equity award.
+
+He also received a sign-on bonus of $5 million.
+
+ISS, in a report seen by Reuters, said the generous executive pay packages lacked a measurable connection to company performance goals.
+
+However, Pivotal Research Group analyst Brian Wieser said investors would not likely be swayed by ISS' recommendation.
+
+"Governance issues, unfortunately, as important as they should be, rarely resonate with the investment community. It has to be truly extreme to matter," Wieser said.
+
+ISS recommended in April that DuPont (DD.N) investors vote in favor of activist investor Nelson Peltz joining the board. But shareholders ended up backing all 12 directors nominated by the company.
+
+At Google, ISS wrote that "Although ISS has not identified any major issues regarding the structure of Google's executive compensation in past years, the magnitude of total pay provided to certain executives, paired with a lack of performance criteria and compelling rationale, raises significant concerns."
+
+Schmidt, who focuses on government outreach and deals in his role as executive chairman, handed the CEO reins to Google co-founder Larry Page in 2011.
+
+Page and fellow co-founder Sergey Brin both have a base salary of $1 and no other compensation. Most of their wealth comes from their holdings of Google shares.
+
+Kordestani previously worked with Google as senior vice president of global sales and business development from May 1999 to April 2009.
+
+The chief business officer is considered a key position, overseeing all the company's revenue-generating activities and serving as a liaison to investors and Wall Street.
+
+Google shares were little changed at $554.05 in afternoon trading on Nasdaq.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Apple Inc said it is recalling some Beats Pill XL portable wireless speakers due to a fire hazard caused by overheating batteries.
+
+The iPhone maker will recall about 222,000 speakers in the United States and about 11,000 in Canada, the U.S. Consumer Product Safety Commission (CPSC) said on Wednesday.
+
+Apple has received eight reports of overheating speakers, the CPSC said in a statement.
+
+The company did not disclose the number of speakers affected by the recall or the number of complaints it received, but said the recall does not affect any other Beats or Apple products.
+
+Apple said it will issue store credit or a refund worth $325 within about three weeks of receiving the faulty speakers, which were introduced by Beats in November 2013.
+
+Apple agreed to buy Beats for about $3 billion in May 2014 in an effort to jump-start an uneven attempt to make headway in music streaming as iTunes sales were declining.
+
+This is not the first time that Apple has had to recall products.
+
+The company had launched an iPhone replacement program in August last year after admitting some smartphones sold between September 2012 and January 2013 had faulty batteries. (apple.co/1uBotvd)
+
+In 2011, network connectivity issues had forced Apple to recall some iPad2 tablets that were designed to run on Verizon's network. (reut.rs/1G5PQUs)
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The Federal Aviation Administration said on Wednesday that it would place a higher priority on integrating drones into the national air space by appointing a senior adviser to coordinate relations with industry and other outside stakeholders.
+
+FAA Administrator Michael Huerta said the new position would deal with "an absolute crush" of outside interest from the private sector and allow regulators within the agency's Unmanned Aircraft Systems (UAS) integration office to concentrate on crafting new regulations for commercial drone use.
+
+He said the aim was to put "more resources" on drone integration "to elevate its profile within the agency."
+
+The job, which has not yet been filled, is the latest FAA action to enhance its accommodation of commercial drones in the face of mounting pressure from Congress and private industry.
+
+The FAA, which hopes to have final regulations in place by the start of 2017, has also taken steps to broaden the corporate use of drones on a case-by-case basis.
+
+“It’s almost an external focus on how we can ensure that we’re being responsive to industry and the global community, while at the same time actually getting the work done that’s getting things into the air space system,” Huerta told reporters.
+
+The Small UAV Coalition, which includes e-commerce companies Amazon.com (AMZN.O) and Google Inc (GOOGL.O), said the change could further expedite FAA movement on commercial drones.
+
+"Elevating and more fully resourcing the UAS industry at the FAA is long overdue but a welcome recognition," said coalition executive director Michael Drobac.
+
+The change essentially splits in two the position of former FAA drone office manager James Williams, who recently retired.
+
+The new senior UAS adviser will report to FAA Deputy Administrator Michael Whitaker and have broad scope to deal with the public, the aviation industry, state and local governments, members of Congress and others.
+
+A job posting for the senior adviser's position, which closed May 29, included a salary range of $123,700 to $174,200.
+
+Williams' regulatory duties will also be elevated within FAA. The new drone office director, who has yet to be named, will report to Margaret Gilligan, associate FAA administrator for aviation safety. Williams reported instead to the agency's flight standards director.
+
+Huerta told reporters that the UAS integration office will retain its concentration on rulemaking and the granting of interim exemptions from a near-ban on commercial drones.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+New Delhi's transport authority on Wednesday rejected the license applications of U.S.-based taxi company Uber and its local rival Ola, citing violation of ban orders imposed by the government last year.
+
+India asked unregistered web-based taxi services to halt operations in December after a driver contracted with Uber was accused of rape. Both Uber and Ola applied for licences in New Delhi but kept operating while approvals were pending.
+
+In March, New Delhi asked the companies to stop if they want their licenses to be processed. The applications were rejected on Wednesday because the companies failed to comply, transport official S. Biswas Roy told Reuters.
+
+"They will have to resubmit (new) license applications now," Roy said.
+
+"We will still insist they comply with the ban order first, otherwise they can go to the court," he said.
+
+A spokesman for Ola, which is backed by Japan's SoftBank Corp, declined to comment. Uber said the license rejection was 'unfortunate'.
+
+It was still possible to book a taxi using mobile applications of Uber or Ola in New Delhi late on Wednesday.
+
+Earlier this week, a driver contracted with Uber was arrested near New Delhi after a woman passenger accused him of sexual harassment when she hailed his cab. The driver was later released on bail.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Medications-by-mail company PillPack said it had raised $50 million in funding, underscoring the continuing appeal of healthcare companies to venture capital backers.
+
+PillPack is taking on established U.S. pharmacies such as CVS, Rite-Aid and Walgreens, betting its tweaks, such as delivering rolls of individual-dose packs labeled by time and date, will help it win convenience-focused customers.
+
+While technology has helped simplify other types of services and purchases, entrepreneurs have largely overlooked the pharmacy market, said George Zachary, a partner at Charles River Ventures, who led the funding round and will take a seat on PillPack's board.
+
+Retail prescription drug sales in the U.S. last year totaled $259 billion, according to the Kaiser Family Foundation, a research organization.
+
+Some 15 percent of prescriptions are filled via mail order, including from the pharmacy giants, PillPack Chief Executive TJ Parker said in an interview on Tuesday. While his company is exclusively mail-order for now, it expects to open retail locations later this year.
+
+Trends such as the aging baby-boomer generation and national health-care reform are leading to increased spending on medicine, which in turn is drawing increased interest from financial backers.
+
+Last quarter, life sciences drew $2.2 billion in venture backing, according to the National Venture Capital Association. That placed it second only to the software sector, with almost a one-third increase from $1.69 billion in the same quarter of 2014.
+
+Accel Partners, Atlas Venture (CQ), Menlo Ventures, and Sherpa Ventures also participated in the funding round. Boston-based Pillpack was founded two years ago and launched last year.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The last time Hillary Clinton ran for the White House in 2008, Aaron Levie was too busy building his start-up company to pay much attention to politics.
+
+But earlier this year, the 30-year-old Levie led his company, Box, through an initial public offering, helping free a small portion of his time to support the frontrunner for the Democratic presidential nomination in 2016. A few weeks ago, Levie, whose company is worth more than $2 billion, agreed to host a fundraiser for Clinton.
+
+He sees big stakes for the tech sector in this election, Levie told Reuters, on issues ranging from improving the patent system to securing visas for foreign workers and limiting government surveillance.
+
+“There’s more intersection between the technology industry and policy than ever before,” said Levie, whose trademark mad-scientist hair showed signs of gray, countered by youthful bright orange sneakers. He said he was backing Clinton because Democrats' social policies, for example on marriage equality, resonated more with him than Republican ones.
+
+The campaigns of various White House hopefuls are looking to reel in the younger Silicon Valley influencers like Levie who could help raise some money for their candidates and also bring along some of the tech sector’s energy and cachet.
+
+Levie, whose company helps store data remotely in the “cloud,” is among several young Silicon Valley executives Clinton’s campaign has been courting.
+
+"Young, innovative entrepreneurs are key to growing and strengthening our economy," said a Clinton campaign spokesman.
+
+SILICON VALLEY A CHALLENGE
+
+But recruiting tech entrepreneurs can prove a challenge. Many lack enthusiasm for politics. For example, in April venture capitalist Marc Andreessen told Fortune he was "struggling between the anti-science party and the anti-economics party" and felt tempted to sit out the next election.
+
+Fundraising officials who declined to be named said they hoped the imprimatur of a few will make it easier to attract others, and Democrats have a long list of prospects.
+
+“The next crowd is Twitter, Facebook, Airbnb," said venture capitalist Steve Westly, who served on President Barack Obama’s national finance committee during the 2008 election. While some of those companies have been around for years, many of their employees are relatively new to their wealth.
+
+Twitter and Airbnb representatives didn't respond to requests for comment. A Facebook spokesman declined comment.
+
+Many in Silicon Valley gravitate toward Democrats, because the party is seen as more in sync with the tech community on social issues such as gay marriage. But Republican 2016 hopefuls such as Kentucky Senator Rand Paul are trying to woo the technorati on economic and regulatory issues. A packed room of start-up workers at his San Francisco office opening last month suggested he may be having some success.
+
+Some big names in technology are already involved in politics. Twitter chief executive Dick Costolo is a longstanding Democratic donor, while Facebook chief executive Mark Zuckerberg gives to candidates of both parties.
+
+COLLEGE DROPOUT
+
+Levie said he has donated only once to a candidate, Senator Chuck Schumer, a Democrat from New York. He still hasn’t registered to vote in California, his home for almost a decade, relying instead on his parents to forward him his ballot from Washington state.
+
+A dropout from the University of Southern California, Levie founded Box with some friends and ran it for a time out of his uncle’s garage near San Francisco before landing hundreds of millions in venture capital backing.
+
+Friends and business associates such as Emanuel Yekutiel, deputy finance director for Clinton, helped spark his interest in her campaign, Levie said.
+
+The clincher: a May 1 meeting in Palo Alto where Clinton campaign officials, including chief technology officer and former Google executive Stephanie Hannon, met with about 50 executives and venture capitalists and highlighted the importance of building a cash reserve for the campaign.
+
+Among the invitees: Palmer Luckey, the 22-year-old co-founder of Oculus Rift, a virtual-reality company bought last year by Facebook for $2 billion, according to someone involved in the event.
+
+Though Levie says campaign support will take a backseat to running Box, he weighs in on election issues with vigor.
+
+Last month, he criticized Rand Paul on Twitter over his comments at a congressional hearing where he compared the “right to healthcare” to the enslaving of doctors.
+
+"Dude, you should be a script writer for `The Hunger Games`, not running for President," Levie wrote on Twitter, referring to the movie about death matches in a dystopian, ruthless society.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The chief executive of French telecoms operator Orange said on Wednesday that his firm planned to expand in North Africa.
+
+Stephane Richard said at a news conference in the Egyptian capital Cairo that the expansion would be through new operations in Tunisia and Morocco.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Chinese e-commerce company Alibaba Group Holding Ltd will invest in financial media outlet China Business Network in a deal set to be announced on Thursday, Chinese media reported on Wednesday.
+
+The investment in China Business Network, part of Shanghai Media Group (SMG), will be worth more than 1 billion yuan ($161 million), said Sina.com, Sohu.com and QQ.com, citing unnamed sources familiar with the matter and unnamed people at Alibaba.
+
+Two people with knowledge of the deal, who weren't authorised to speak to media, told Reuters an investment could be announced as soon as Thursday, but did not know the financial details.
+
+An Alibaba spokeswoman declined comment. SMG and China Business Network were not immediately available for comment outside normal business hours.
+
+A stake in a financial media outlet could help round out Alibaba founder and Executive Chairman Jack Ma's already extensive holdings in China's financial industry. His aim is to build an array of online services to challenge the country's state-owned banks and other institutions in the sector.
+
+These holdings have been acquired through various companies of Ma's and include Ant Financial, an affiliate of Alibaba which operates China's biggest online payment processing service.
+
+Investments by Ma or his companies can send their targets' shares skyrocketing. On Monday, Reorient Group Ltd, a Hong Kong-listed financial services provider, nearly tripled in value after a fund backed by the billionaire agreed to invest HK$2.7 billion ($348 million) for a controlling stake.
+
+Alibaba's investment in China Business Network would not be the first partnership between Ma and SMG in financial information services.
+
+Last November, Ant and SMG said they would jointly invest 390 million yuan in Shanghai Gildata Inc, a subsidiary of financial software firm Hundsun Technologies Inc. Shanghai Gildata is a data services provider that competes with Thomson Reuters Corp and Bloomberg L.P.
+
+Ma had previously invested 3.3 billion yuan to take a controlling interest in Hundsun.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Sophos Group Plc, a maker of IT security products, said it plans to raise about $100 million in an initial public offering on the London Stock Exchange.
+
+The company, which expects admission of its shares in early July, had pulled out from potential floats in 2007 and 2009.
+
+"We think the atmosphere for technology companies in the UK is strong, and is only getting stronger," Chief Executive Kris Hagerman said on a conference call on Wednesday.
+
+He declined to comment on the expected valuation of the potential floatation.
+
+Sophos, majority-owned by Apax Partners LLP, however, said it expects to have a free float of at least 25 percent after its admission on the FTSE-250 index.
+
+Apax Partners was aiming at listing the business at 1 billion pounds ($1.53 billion), the Telegraph reported in February. (bit.ly/17awpM1)
+
+Sophos, which primarily focuses on mid-market enterprises with 100-5,000 employees, plans to use the proceeds to reduce debt, which stood at $318.8 million at April-end.
+
+J.P. Morgan Securities Plc and Morgan Stanley & Co International Plc are acting as joint global co-ordinators for the offering.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+NEW DELHI (Thomson Reuters Foundation) - The Indian government has launched a "Lost and Found" website to help families trace the tens of thousands of children in the country who go missing every year - often abducted for forced labor or sexual exploitation - and are never found.
+
+The "Khoya Paya", or "Lost and Found", website khoyapaya.gov.in was launched by India's Minister for Women and Child Development Maneka Gandhi, who said the portal would allow parents to register details of missing children and citizens to report sightings.
+
+The information will be shared in real time with police and state authorities, who are mandated to register the complaint and investigate the case.
+
+"It was felt that we could have this portal, where if a child goes missing, families can put the details and the picture onto Khoya Paya," Gandhi said on Tuesday at an event to launch the website, which is the first of its kind in India.
+
+"Then if you see the child anywhere, you can upload information and then the police see if they can correlate it."
+
+Around 70,000 children go missing every year in India, Gandhi said, citing figures from the National Crime Records Bureau. But only 73,597 children have been traced between January 2012 and April 2015, she added.
+
+Child rights activists and government officials say that many of the country's missing children come from poor rural areas or urban slums where they are at high risk.
+
+"Most of the missing children are trafficked for labor, for sexual exploitation, abducted, or kidnapped ... They could be runaways from home, or simply be lost," said a government statement.
+
+"This is the reason that it is not only important to get the information related to these missing children, but it is equally important that the information is exchanged speedily to locate the children."
+
+It said that social media could play "a pivotal role" in the search for missing children, as it would mean faster reporting.
+
+Child rights activists welcomed the initiative and dismissed claims that it would only serve a small fraction of the country's population, around 25 percent of whom are Internet users.
+
+"Even if people do not know how to use the Internet or have access, they can enlist the help of the village council members, an NGO, or local officials to register their case," said Ravi Kant, president of Shakti Vahini, an anti-trafficking charity.
+
+"Many NGOs like ours have already being going out into communities where children are at high risk and informing people of Khoya Paya and how they can use it. It is a good step towards finding our missing children."
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Tech giant Samsung Electronics Co Ltd (005930.KS) said on Wednesday it has no plans to merge with affiliate Samsung SDS Co Ltd (018260.KS), in an attempt to quell speculation that such a deal is in the works to help Samsung Group's succession process.
+
+"The management wants me to express clearly that we do not have a plan to merge with SDS," Robert Yi, Samsung Electronics' head of investor relations, said at a company event in Seoul.
+
+Samsung Group [SAGR.UL] has been restructuring its sprawling business empire over the past year to secure a stable transfer of control from the founding family patriarch Lee Kun-hee to his three children. The elder Lee remains hospitalized following a May 2014 heart attack, adding urgency to these efforts.
+
+Some investors and analysts have said Samsung Electronics and Samsung SDS, an IT services company, could merge soon. Such a deal would give Samsung Group heir apparent Jay Y. Lee and his sisters, major shareholders in SDS, shares in Samsung Electronics, the crown jewel of South Korea's top conglomerate.
+
+"This announcement may not remove all the rumors and hearsayers in the market but I hope it conveys the management's thoughts on this issue," Yi said.
+
+Samsung's de facto holding firm, Cheil Industries Inc (028260.KS), and Samsung C&T Corp (000830.KS) announced in late-May an all-stock merger, putting stakes in key manufacturing and financial arms in a single vehicle under the Lee heirs' control.
+
+Investors expect more group consolidation moves to be announced in the near term, though Samsung Group has not disclosed its restructuring plans.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Banks will start collecting orders for the initial public offering of Telecom Italia tower unit Inwit next week, a source close to the matter said on Wednesday.
+
+Telecom Italia aims to sell up to 40 percent of Inwit in the IPO to raise money to upgrade its networks and return its domestic business to growth.
+
+Inwit could be worth up to 2.6 billion euros ($2.9 billion) according to research notes from Mediobanca Securities and Banca IMI, which are global coordinators of the share sale.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Japanese telecoms group SoftBank Corp (9984.T) is investing $1 billion in South Korean online retailer Coupang as part of a plan to step up its overseas expansion and as it struggles to turn around U.S. carrier Sprint (S.N) which it bought in 2013.
+
+SoftBank has been turning to overseas deals for growth amid a lackluster Japanese economy and shrinking demographics. The latest move comes two days after SoftBank said it had increased its controlling stake in Supercell, the Finnish mobile games maker best known for its hit title 'Clash of Clans'.
+
+The funding, which is expected to close in July, brings the total sum Coupang has raised over the past year to $1.5 billion, the companies said in a joint statement on Wednesday. They did not disclose the size of SoftBank's stake in Coupang following the deal.
+
+Coupang, founded in 2010 by Harvard dropout Bom Kim, offers daily deals on goods ranging from beauty products to tickets for travel and is South Korea's top online commerce firm by revenue.
+
+E-commerce has grown rapidly in South Korea, where consumers routinely buy goods ranging from toilet paper to designer handbags through their computers or smartphones.
+
+But intense competition and high promotion costs have raised questions about the industry's profitability. Coupang reported an operating loss of 122 billion won ($110.52 million) last year.
+
+SoftBank's investment comes after Groupon Inc's (GRPN.O) announcement in April that it would sell a 46 percent stake in Ticket Monster, its South Korean e-commerce business, for $360 million to a partnership formed by KKR (KKR.N) and Anchor Equity Partners.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Global subscriptions for smartphones will more than double by 2020, helping mobile data traffic to ninefold, the world's largest telecoms network gear maker Ericsson predicted on Wednesday.
+
+The Swedish company said it expected there will be 6.1 billion smartphone subscriptions globally by the end of 2020, up from 2.6 billion in 2014.
+
+"Advanced mobile technology will be globally ubiquitous by 2020 with 70 percent of people using smartphones and 90 percent covered by mobile broadband networks," it said in its semi-annual Mobility Report.
+
+Ericsson made no major changes compared to its previous forecast in November.
+
+It said video is expected to increase its share of total mobile traffic in 2020 to 60 percent, up from an earlier projection of 55 percent and compared to around 45 percent in 2014.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

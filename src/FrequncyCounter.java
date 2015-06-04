@@ -27,10 +27,16 @@ import java.util.Random;
 public class FrequncyCounter {
 
     HashMap<String,WordStat> wordStats=new HashMap<String,WordStat>();
+
     ArrayList<Sentence> sentences=new  ArrayList<Sentence>();
     ArrayList<Sentence> testSentences=new  ArrayList<Sentence>();
     ArrayList<Sentence> train=new  ArrayList<Sentence>();
     ArrayList<Sentence> test=new  ArrayList<Sentence>();
+
+    ArrayList<Article> articles=new ArrayList<Article>();
+    ArrayList<Article> trainA=new  ArrayList<Article>();
+    ArrayList<Article> testA=new  ArrayList<Article>();
+
     ArrayList<Integer[]> assignments=new  ArrayList<Integer[]>();
     Stemmer stemmer=null;
     int[] allStats=new int[5];
@@ -48,19 +54,56 @@ public class FrequncyCounter {
 
         FrequncyCounter fc = new FrequncyCounter();
         String path = "./";
-        fc.readDataFile(path + "train.tsv", false);
-        fc.readTestDataFile(path + "test.tsv", false);
+//        fc.readDataFile(path + "train.tsv", false);
+//        fc.readTestDataFile(path + "test.tsv", false);
+
+        ArrayList<Article> a = fc.readDataFile(path + "/English Data/" + "business.txt", true, 0);
+        for (int i = 0; i < a.size(); i++) {
+            Article ar = a.get(i);
+            fc.sentences.addAll(ar.sentences);
+        }
+        fc.articles.addAll(a);
+        a = fc.readDataFile(path + "/English Data/" + "entertainment.txt", true,1);
+        for (int i = 0; i < a.size(); i++) {
+            Article ar = a.get(i);
+            fc.sentences.addAll(ar.sentences);
+        }
+        fc.articles.addAll(a);
+        a = fc.readDataFile(path + "/English Data/" + "Politics.txt", true,2);
+        for (int i = 0; i < a.size(); i++) {
+            Article ar = a.get(i);
+            fc.sentences.addAll(ar.sentences);
+        }
+        fc.articles.addAll(a);
+        a = fc.readDataFile(path + "/English Data/" + "Science_technology.txt", true,3);
+        for (int i = 0; i < a.size(); i++) {
+            Article ar = a.get(i);
+            fc.sentences.addAll(ar.sentences);
+        }
+        fc.articles.addAll(a);
+        a = fc.readDataFile(path + "/English Data/" + "Sports.txt", true,4);
+        for (int i = 0; i < a.size(); i++) {
+            Article ar = a.get(i);
+            fc.sentences.addAll(ar.sentences);
+        }
+        fc.articles.addAll(a);
+        System.out.println(fc.sentences.size());
+        System.out.println(fc.articles.size());
         //fc.randomPartition(0.1);
         //fc.runIteration();
 
 
-       // for (; saturationAmount < 0.941; saturationAmount=saturationAmount+0.001) {
-           // fc.nFoldCrossValidation(10);
-       // }
-       // for (idfW = 1; idfW <2.1 ; idfW=idfW+0.1) {
-                  // fc.nFoldCrossValidation(10);
-                  fc.Calssify();
-                fc.writeClassifications(path + "fin.csv");
+        // for (; saturationAmount < 0.941; saturationAmount=saturationAmount+0.001) {
+        System.out.println("Old Sentence by sentence classifier algo");
+        fc.nFoldCrossValidation(100);
+        System.out.println("%%%%%%%%%%%%%%%%%%");
+        System.out.println("New Reuters articles classifier");
+        fc.nFoldArticleCrossValidation(10);
+        // }
+        // for (idfW = 1; idfW <2.1 ; idfW=idfW+0.1) {
+        // fc.nFoldCrossValidation(10);
+//                  fc.Calssify();
+//                fc.writeClassifications(path + "fin.csv");
         //}
 
         //System.out.println(fc);
@@ -83,6 +126,19 @@ public class FrequncyCounter {
             Sentence s=train.get(i);
             ProcessLine(s.phraseId, s.sentenceId, s.sentenceParts,s.classVal);
         }
+/*
+        Iterator<String> itr=wordStats.keySet().iterator();
+        while(itr.hasNext()){
+            String s=itr.next();
+            WordStat ws=wordStats.get(s);
+            System.out.println(ws);
+        }
+        try {
+            System.in.read();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }*/
+
     }
 
 
@@ -128,6 +184,45 @@ public class FrequncyCounter {
         }
     }
 
+    public void nFoldArticleCrossValidation(int n){
+        double trainAccuracy=0;
+        double testAccuracy=0;
+        for (int i = 0; i <n ; i++) {
+            wordStats=new HashMap<String,WordStat>();
+            trainA=new  ArrayList<Article>();
+            testA=new  ArrayList<Article>();
+
+            ArrayList<Article> tempArticles=new  ArrayList<Article>();
+            tempArticles.addAll(articles);
+
+            int limit=(int)(articles.size()/n);
+            for (int j = 0; j < i*limit; j++) {
+                trainA.add(tempArticles.get(j));
+            }
+            int cut=((i*limit)+limit);
+            for (int j = i*limit; j <cut ; j++) {
+                testA.add(tempArticles.get(j));
+            }
+            for (int j = cut; j <tempArticles.size() ; j++) {
+                trainA.add(tempArticles.get(j));
+            }
+
+            for (int j = 0; j <trainA.size() ; j++) {
+                train.addAll(trainA.get(j).sentences);
+            }
+
+            train();
+            normalize();
+
+            trainAccuracy+=evaluate(trainA);
+            testAccuracy+=evaluate(testA);
+        }
+        System.out.println(idfW);
+        System.out.println("Train Accuracy: "+trainAccuracy/n);
+        System.out.println("Validation Accuracy: "+testAccuracy/n);
+    }
+
+
     public void nFoldCrossValidation(int n){
         double trainAccuracy=0;
         double testAccuracy=0;
@@ -157,7 +252,7 @@ public class FrequncyCounter {
         //System.out.println(saturationAmount);
         System.out.println(idfW);
         System.out.println("Train Accuracy: "+trainAccuracy/n);
-        System.out.println("Test Accuracy: "+testAccuracy/n);
+        System.out.println("Validation Accuracy: "+testAccuracy/n);
     }
 
     public void randomPartition(double trainFraction){
@@ -173,7 +268,10 @@ public class FrequncyCounter {
         test.addAll(tempSentences);
     }
 
-    public double evaluate(ArrayList<Sentence> evalSentences){
+
+
+
+    public double evaluate(ArrayList<? extends classedItem> evalItems){
         missingMissed=0;
         missingHit=0;
         missingMissVarience =0;
@@ -184,8 +282,8 @@ public class FrequncyCounter {
 
 
         int count=0;
-        for (int i = 0; i < evalSentences.size(); i++) {
-            if(evaluate(evalSentences.get(i))){
+        for (int i = 0; i < evalItems.size(); i++) {
+            if(evaluate(evalItems.get(i))){
                 count++;
             }
         }
@@ -210,7 +308,7 @@ public class FrequncyCounter {
        // System.out.println("Missing::  Miss: "+missingMissed+" Hit: "+missingHit+" Miss Per%: "+missPer+" Miss Var: "+ misVar);
        // System.out.println("Found::  Miss: "+foundMissed+" Hit: "+foundHit+" Miss Per%: "+foundPer+" Miss Var: "+ foundVar);
 
-        return(((double)(count*100))/evalSentences.size());
+        return(((double)(count*100))/evalItems.size());
     }
 
     int missingMissed=0;
@@ -220,7 +318,48 @@ public class FrequncyCounter {
     int foundHit=0;
     double foundMissVarience =0;
 
-    public boolean evaluate(Sentence s){
+    public boolean evaluate(classedItem c){
+        if(c instanceof Sentence){
+            Sentence s=(Sentence)c;
+            return (s.classVal==evaluate(s));
+        }
+        else{
+            int[] votes=new int[allStats.length];
+            Article a=(Article)c;
+            for (int i = 0; i <a.sentences.size() ; i++) {
+                Sentence s=a.sentences.get(i);
+                int evaluated=evaluate(s);
+                votes[evaluated]++;
+               //System.out.println(s.classVal+" -> "+evaluated);
+            }
+
+
+            double max=0;
+            int index=2;
+            for (int i = 0; i <votes.length; i++) {
+                if(max<votes[i]){
+                    max=votes[i];
+                    index=i;
+                }
+            }
+
+        /*    StringBuilder sb=new StringBuilder();
+            sb.append("[");
+            for (int i = 0; i < votes.length; i++) {
+                sb.append(votes[i]+" ");
+            }
+            sb.append("] -> ");
+            sb.append(index);
+            System.out.println(sb.toString());*/
+
+            return (a.classVal==index);
+        }
+    }
+
+
+    public int evaluate(Sentence s){
+
+
         double[] values=new double[5];
         ArrayList<String> ngrams=new ArrayList<String>();
         for (int i = 0; i <s.sentenceParts.length ; i++) {
@@ -232,6 +371,7 @@ public class FrequncyCounter {
 
 
         boolean wordMissing=false;
+
 
         for (int i = 0; i <ngrams.size(); i++) {
             String word=ngrams.get(i);
@@ -259,11 +399,18 @@ public class FrequncyCounter {
 
                 double[] partValues=ws.classStats;
                 for (int j = 0; j < values.length; j++) {
+                    if(Double.isNaN(ws.IDFmodifier)){
+                        ws.IDFmodifier=1;
+
+                    }
+
                     values[j]+=wordnetModifier*(idfW*ws.IDFmodifier +ws.infoModifier)*partValues[j];
+                   // System.out.println(values[j]+" <- "+wordnetModifier+"*("+idfW+"*"+ws.IDFmodifier+"+"+ws.infoModifier+")*"+partValues[j]);
                 }
             }
 
         }
+
 
         double max=0;
         int index=2;
@@ -278,7 +425,14 @@ public class FrequncyCounter {
             }
         }
 
-
+       /* StringBuilder sb=new StringBuilder();
+        sb.append("[");
+        for (int i = 0; i < values.length; i++) {
+            sb.append(values[i]+" ");
+        }
+        sb.append("] -> ");
+        sb.append(index);
+        System.out.println(sb.toString());*/
 
 
         //If the second guess is better than 99.999% of the best, try a weighted random guess between the two
@@ -320,7 +474,13 @@ public class FrequncyCounter {
                 foundMissVarience +=Math.abs(s.classVal-index);
             }
         }
-        return (s.classVal==index);
+
+
+
+
+        return (index);
+
+
         //System.out.println(s.classVal+" -> "+index);
     }
 
@@ -517,6 +677,76 @@ public class FrequncyCounter {
         return Math.log(a) / Math.log(b);
     }
 
+
+
+    public ArrayList<Article> readDataFile(String path,boolean isEnglish, int classNum) {
+        ArrayList<Article> articles=new ArrayList<Article>();
+        String line = null;
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(path));
+            line = br.readLine();
+            Article a=new Article(isEnglish,classNum);
+            while (line != null) {
+
+                if (line.contains("&&&&&&&")) {
+                    if(a.sentenceStrings.size()>0){
+                        articles.add(a);
+                        a=new Article(isEnglish,classNum);
+                    }
+                }else{
+                    if(line.length()>0){
+                        String[] fragments=line.split("\\.");
+                        if(fragments.length==1){
+                            a.sentenceStrings.add(fragments[0]);
+                        }
+                        else {
+                            for (int i = 1; i <= fragments.length; i++) {
+
+                                String part1 = fragments[i - 1];
+                                String part2 = "";
+                                boolean append = false;
+                                while (i < fragments.length && fragments[i].length() <= 1) {
+                                    part2 += fragments[i];
+                                    i++;
+                                    append = true;
+                                }
+                                String part3 = "";
+                                if (append && i < fragments.length) {
+                                    part3 += fragments[i];
+                                    i++;
+                                }
+
+                                String sent = part1 + part2 + part3;
+                                a.sentenceStrings.add(sent);
+                               // System.out.println(sent);
+                            }
+                        }
+
+                    }
+                }
+                line = br.readLine();
+            }
+            br.close();
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+
+
+        for (int i = 0; i < articles.size(); i++) {
+            Article a=articles.get(i);
+            for (int j = 0; j <a.sentenceStrings.size() ; j++) {
+                String sentenceString=a.sentenceStrings.get(j);
+                String[] processedParts=breakLineToParts(sentenceString);
+                Sentence s=new Sentence(sentenceString,processedParts,a.classVal);
+                a.sentences.add(s);
+                allStats[s.classVal]++;
+            }
+        }
+
+        return articles;
+    }
+
+
     public void readDataFile(String path, Boolean isSpam) {
         String line=null;
         try {
@@ -528,14 +758,19 @@ public class FrequncyCounter {
             //Phrase m = null;
             while (line != null) {
                 //  System.out.println(line);
+
+
                 String[] parts=line.split("\t");
-                //m=new Phrase(parts);
+
                 String[] processedParts=breakLineToParts(parts[2]);
                 if(processedParts.length>0) {
                     Sentence s=new Sentence(parts[0], parts[1], parts[2], processedParts, parts[3]);
                     sentences.add(s);
                     allStats[s.classVal]++;
                 }
+
+                //m=new Phrase(parts);
+
                 //unigrams.addAll(m.getUnigrams());
                 //bigrams.addAll(m.getBigrams());
                // phrases.add(m);
@@ -631,17 +866,26 @@ public class FrequncyCounter {
 
     }
 
-    public class Sentence{
+    public class classedItem{
+        int classVal=-1;
+    }
+
+
+    public class Sentence extends classedItem{
         String[] sentenceParts;
-        int classVal;
         int phraseId=0;
         int sentenceId=0;
         String sentence="";
 
-        public Sentence(String phraseIdS, String	sentenceIdS,String sentenceS,String[] sentenceParts, String classVal) {
+
+        public Sentence(String sentenceS,String[] sentenceParts, int classVal) {
+            this( "0","0",sentenceS,sentenceParts,classVal);
+        }
+
+        public Sentence(String phraseIdS, String sentenceIdS,String sentenceS,String[] sentenceParts, String classVal) {
             this( phraseIdS,sentenceIdS,sentenceS,sentenceParts,Integer.parseInt(classVal));
         }
-        public Sentence(String phraseIdS, String	sentenceIdS,String sentenceS,String[] sentenceParts, int classVal) {
+        public Sentence(String phraseIdS, String sentenceIdS,String sentenceS,String[] sentenceParts, int classVal) {
             this.sentenceParts = sentenceParts;
             this.classVal = classVal;
             phraseId=Integer.parseInt(phraseIdS);
@@ -785,9 +1029,6 @@ public class FrequncyCounter {
             this.classStats = classStats;
         }
     }
-
-
-
 
     public class Stemmer{
         private int MaxWordLength = 50;
@@ -979,5 +1220,22 @@ public class FrequncyCounter {
             return word;
         }
 
+    }
+
+
+    public class Article extends classedItem{
+        boolean isEnglish=true;
+        ArrayList<String> sentenceStrings =new ArrayList<String>();
+        ArrayList<Sentence> sentences =new ArrayList<Sentence>();
+
+
+        public Article(boolean isEnglish, int classVal) {
+            this.isEnglish = isEnglish;
+            this.classVal = classVal;
+        }
+
+        public void addSentence(String s){
+            sentenceStrings.add(s);
+        }
     }
 }

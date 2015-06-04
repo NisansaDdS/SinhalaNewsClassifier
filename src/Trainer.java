@@ -307,7 +307,7 @@ public class Trainer {
             System.err.println(e.getMessage());
         }
 
-        //Grab the longest of sentences
+        //Grab the longest of sentenceStrings
         int pOldIndex=0;
         for (int i = 1; i <phrases.size() ; i++) {
             Phrase pNew=phrases.get(i);
