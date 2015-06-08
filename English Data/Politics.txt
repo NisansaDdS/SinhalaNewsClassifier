@@ -460,28 +460,6 @@ President Barack Obama on Thursday said he would nominate Gayle Smith, a long-ti
 
 "Gayle’s energy and passion have been instrumental in guiding America’s international development policy, responding to a record number of humanitarian crises worldwide, and ensuring that development remains at the forefront of the national security agenda," Obama said in a statement, urging the Senate to quickly confirm Smith to the position.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-The mouse walked, the mouse stopped; the mouse ignored a bowl of food, then scampered back and gobbled it up, and it was all controlled by neuroscientists, researchers reported on Thursday.
-
-The study, describing a way to manipulate a lab animal's brain circuitry accurately enough to turn behaviors both on and off, is the first to be published under President Barack Obama's 2013 BRAIN Initiative, which aims to advance neuroscience and develop therapies for brain disorders.
-
-The point of the remote-control mouse is not to create an army of robo-rodents. Instead, neuroscientists hope to perfect a technique for identifying brain wiring underlying any behavior, and control that behavior by activating and deactivating neurons.
-
-If scientists are able do that for the circuitry involved in psychiatric or neurological disorders, it may lead to therapies. That approach reflects a shift away from linking such illnesses to "chemical imbalances" in the brain, instead tracing them to miswiring and misfiring in neuronal circuits.
-
-"This tool sharpens the cutting edge of research aimed at improving our understanding of brain circuit disorders, such as schizophrenia and addictive behaviors," said Dr. Francis Collins, director of the National Institutes of Health, which funded the $1 million study.
-
-The technique used to control neurons is called DREADDs (designer receptors exclusively activated by designer drugs).
-
-Brain neurons are genetically engineered to produce a custom-made - "designer" - receptor. When the receptor gathers in a manmade molecule that fits like a key in a lock, the neuron is activated.
-
-Because the receptor does not respond to other molecules, including natural ones in the brain, the only way to activate the neurons is via the manmade one. DREADDs allow scientists to manipulate neurons without implanting anything in the brain.
-
-DREADDs, invented about a decade ago, had been used to turn neurons on or off, but not both. DREADDs 2.0 are the first to do that, scientists led by Bryan Roth of the University of North Carolina reported in Neuron.
-
-Targeting hunger-promoting neurons, the scientists made mice ignore food bowls or dive into them. Targeting movement neurons, they made mice scamper or stop.
-
-In a competing remote-control technique called optogenetics, engineered neurons are activated upon receiving a pulse of light. That turns them on and off more quickly than with DREADDs, but the hardware required for delivering light to a spot in the brain is invasive and cumbersome.
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 New York state Senate Majority Leader Dean Skelos, a Republican, and his son are expected to be arrested next week on federal corruption charges, The New York Times reported on Friday, citing unnamed sources.
 
 The criminal charges against Skelos, 67, and his son, Adam, 32, were expected to be detailed in a criminal complaint and likely will include conspiracy, extortion and solicitation of bribes, the newspaper quoted one source as saying.

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/SinhalaData/Sinhala/Politics.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SinhalaData/Sinhala/Science_technology.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SinhalaData/Sinhala/Sports.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SinhalaData/Sinhala/business.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SinhalaData/Sinhala/entertainment.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/FrequncyCounter.java" charset="UTF-8" />
+  </component>
 </project>

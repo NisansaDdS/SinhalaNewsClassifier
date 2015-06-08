@@ -840,40 +840,6 @@ European governments have proved more friendly to Shenzhen-based Huawei, which p
 
 Huawei declined to disclose the amount invested in the new institute, but rotating chief executive Guo Ping said in a statement the company viewed Europe as a "favorable industrial environment" and would strengthen its cooperation with European industry and academia.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Telecom equipment maker Alcatel-Lucent (ALUA.PA), which is set to be bought by larger rival Nokia (NOK1V.HE), improved profit margins in the first quarter despite a marked sales slowdown in its biggest market, the United States.
-
-Although it reported a net loss, higher software sales, a weak euro, and strong demand for its Internet routing products - which help telecom operators handle heavy broadband traffic from online video - helped the French firm post a better quarter than Nokia and mobile market leader Ericsson (ERICb.ST).
-
-Both those competitors saw steep drops in their shares after missing profit targets, and Nokia's misstep prompted some Alcatel shareholders to say the takeover deal terms should be renegotiated.
-
-Alcatel-Lucent Chief Executive Michel Combes dismissed the idea on Thursday, saying there was no need to change the deal since both companies were sticking to their annual targets.
-
-"The strategic rationale of the deal does not depend on the performance of an isolated quarter," he said.
-
-"There is no reason for any change."
-
-Alexander Peterc, analyst at Exane BNP Paribas, said the results showed a "significant divergence versus weak peers Nokia and Ericsson".
-
-Alcatel shares were up 2.8 percent at 3.30 euro at 07:41 GMT, the biggest gainers on the on the French blue-chip CAC 40 index .FCHI. They had previously fallen nearly 30 percent since the acquisition by Nokia was announced in mid-April, hit by investor scepticism about the merits of the deal.
-
-Nokia's acquisition of Alcatel-Lucent aims to position the company to better compete with Sweden's Ericsson as well as low-cost Chinese powerhouse Huawei [HWT.UL] by forging a strong number two in mobile with a more complete product line.
-
-Alcatel-Lucent shareholders will get 0.55 shares in Nokia for every Alcatel-Lucent share, ending up with 33.5 percent of the enlarged group once the deal closes in mid-2016.
-
-OUTPERFORMANCE
-
-Alcatel-Lucent's first-quarter revenue rose 9 percent on a comparable basis to 3.24 billion euros ($3.68 billion), ahead of a company-provided consensus of 3.02 billion, while adjusted operating profit nearly doubled to 82 million euros compared with a consensus of 79 million.
-
-The company posted a net loss of 72 million euros - almost flat to the 73 million loss a year before - but some measures of profitability improved because of cost cuts as well as the sale more higher margin products and software.
-
-The gross margin improved to 34.6 percent in the quarter from 32.3 percent a year ago, and the operating margin was 2.5 percent versus 1.1 percent.
-
-"The topline and gross margin beat are impressive, especially in the context of weak North America spending and after the very disappointing results of Nokia and Ericsson on that front," said Bernstein Research analyst Pierre Ferragu.
-
-Alcatel-Lucent earns almost half its revenue in North America where it supplies mobile and broadband gear to Verizon (VZ.N) and AT&T (T.N).
-
-The group confirmed its aim to generate positive free cash flow by the end of the year, the central aim of Combes' turnaround. But it consumed 332 million euro more cash than it generated in the quarter, an improvement of 66 million.
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 Authorities in China's southwestern city of Chengdu visited the offices of Uber on Wednesday as part of a new investigation into the online taxi-hailing service, a spokeswoman for Chengdu's transportation commission said.
 
 The visit is the second made by authorities to Uber's China offices in the last week. The official Xinhua news agency said on Friday Guangzhou authorities raided Uber's office there on suspicion of an "unlicensed operation".
@@ -1916,6 +1882,27 @@ Ericsson made no major changes compared to its previous forecast in November.
 
 It said video is expected to increase its share of total mobile traffic in 2020 to 60 percent, up from an earlier projection of 55 percent and compared to around 45 percent in 2014.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The mouse walked, the mouse stopped; the mouse ignored a bowl of food, then scampered back and gobbled it up, and it was all controlled by neuroscientists, researchers reported on Thursday.
+
+The study, describing a way to manipulate a lab animal's brain circuitry accurately enough to turn behaviors both on and off, is the first to be published under President Barack Obama's 2013 BRAIN Initiative, which aims to advance neuroscience and develop therapies for brain disorders.
+
+The point of the remote-control mouse is not to create an army of robo-rodents. Instead, neuroscientists hope to perfect a technique for identifying brain wiring underlying any behavior, and control that behavior by activating and deactivating neurons.
+
+If scientists are able do that for the circuitry involved in psychiatric or neurological disorders, it may lead to therapies. That approach reflects a shift away from linking such illnesses to "chemical imbalances" in the brain, instead tracing them to miswiring and misfiring in neuronal circuits.
+
+"This tool sharpens the cutting edge of research aimed at improving our understanding of brain circuit disorders, such as schizophrenia and addictive behaviors," said Dr. Francis Collins, director of the National Institutes of Health, which funded the $1 million study.
+
+The technique used to control neurons is called DREADDs (designer receptors exclusively activated by designer drugs).
+
+Brain neurons are genetically engineered to produce a custom-made - "designer" - receptor. When the receptor gathers in a manmade molecule that fits like a key in a lock, the neuron is activated.
+
+Because the receptor does not respond to other molecules, including natural ones in the brain, the only way to activate the neurons is via the manmade one. DREADDs allow scientists to manipulate neurons without implanting anything in the brain.
+
+DREADDs, invented about a decade ago, had been used to turn neurons on or off, but not both. DREADDs 2.0 are the first to do that, scientists led by Bryan Roth of the University of North Carolina reported in Neuron.
+
+Targeting hunger-promoting neurons, the scientists made mice ignore food bowls or dive into them. Targeting movement neurons, they made mice scamper or stop.
+
+In a competing remote-control technique called optogenetics, engineered neurons are activated upon receiving a pulse of light. That turns them on and off more quickly than with DREADDs, but the hardware required for delivering light to a spot in the brain is invasive and cumbersome.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

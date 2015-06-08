@@ -56,49 +56,64 @@ public class FrequncyCounter {
         String path = "./";
 //        fc.readDataFile(path + "train.tsv", false);
 //        fc.readTestDataFile(path + "test.tsv", false);
+        String basePath=  "/SinhalaData/Sinhala/";  //"/English Data/";  //
 
-        ArrayList<Article> a = fc.readDataFile(path + "/English Data/" + "business.txt", true, 0);
+        ArrayList<Article> a = fc.readDataFile(path +basePath + "business.txt", true, 0);
         for (int i = 0; i < a.size(); i++) {
             Article ar = a.get(i);
             fc.sentences.addAll(ar.sentences);
         }
+       // System.out.println(fc.count);
         fc.articles.addAll(a);
-        a = fc.readDataFile(path + "/English Data/" + "entertainment.txt", true,1);
+        a = fc.readDataFile(path + basePath + "entertainment.txt", true,1);
         for (int i = 0; i < a.size(); i++) {
             Article ar = a.get(i);
             fc.sentences.addAll(ar.sentences);
         }
+        //System.out.println(fc.count);
         fc.articles.addAll(a);
-        a = fc.readDataFile(path + "/English Data/" + "Politics.txt", true,2);
+        a = fc.readDataFile(path + basePath + "Politics.txt", true,2);
         for (int i = 0; i < a.size(); i++) {
             Article ar = a.get(i);
             fc.sentences.addAll(ar.sentences);
         }
+        //System.out.println(fc.count);
         fc.articles.addAll(a);
-        a = fc.readDataFile(path + "/English Data/" + "Science_technology.txt", true,3);
+        a = fc.readDataFile(path + basePath + "Science_technology.txt", true,3);
         for (int i = 0; i < a.size(); i++) {
             Article ar = a.get(i);
             fc.sentences.addAll(ar.sentences);
         }
+       // System.out.println(fc.count);
         fc.articles.addAll(a);
-        a = fc.readDataFile(path + "/English Data/" + "Sports.txt", true,4);
+        a = fc.readDataFile(path + basePath + "Sports.txt", true,4);
         for (int i = 0; i < a.size(); i++) {
             Article ar = a.get(i);
             fc.sentences.addAll(ar.sentences);
         }
+        //System.out.println(fc.count);
         fc.articles.addAll(a);
         System.out.println(fc.sentences.size());
         System.out.println(fc.articles.size());
+
         //fc.randomPartition(0.1);
         //fc.runIteration();
-
 
         // for (; saturationAmount < 0.941; saturationAmount=saturationAmount+0.001) {
         System.out.println("Old Sentence by sentence classifier algo");
         fc.nFoldCrossValidation(100);
-        System.out.println("%%%%%%%%%%%%%%%%%%");
-        System.out.println("New Reuters articles classifier");
+      System.out.println("%%%%%%%%%%%%%%%%%%");
+       System.out.println("New Reuters articles classifier");
         fc.nFoldArticleCrossValidation(10);
+
+
+
+
+
+
+
+
+
         // }
         // for (idfW = 1; idfW <2.1 ; idfW=idfW+0.1) {
         // fc.nFoldCrossValidation(10);
@@ -324,23 +339,48 @@ public class FrequncyCounter {
             return (s.classVal==evaluate(s));
         }
         else{
-            int[] votes=new int[allStats.length];
+            double[] votes=new double[allStats.length];
             Article a=(Article)c;
+            double modifierBase=0.5;
+            double modifier=1;
+            double[] diffs=new double[a.sentences.size()];
+
             for (int i = 0; i <a.sentences.size() ; i++) {
+              /*  if(i<(a.sentences.size()/2)){
+                    modifier= (i/a.sentences.size());
+                }
+                else{
+                    modifier=1- (i/a.sentences.size());
+                }
+                modifier+=modifierBase;
+                modifier=(10-modifier);*/
+
+
                 Sentence s=a.sentences.get(i);
                 int evaluated=evaluate(s);
-                votes[evaluated]++;
+                votes[evaluated]+=modifier;
+
+                diffs[i]=Math.abs(a.classVal-evaluated);
+
                //System.out.println(s.classVal+" -> "+evaluated);
             }
 
 
+
+
+      /*
+        */
+
+
             double max=0;
             int index=2;
+            double sum=0;
             for (int i = 0; i <votes.length; i++) {
                 if(max<votes[i]){
                     max=votes[i];
                     index=i;
                 }
+                sum+=votes[i];
             }
 
         /*    StringBuilder sb=new StringBuilder();
@@ -351,6 +391,21 @@ public class FrequncyCounter {
             sb.append("] -> ");
             sb.append(index);
             System.out.println(sb.toString());*/
+
+            if(a.classVal!=index){
+               /* System.out.print("\n");
+                for (int j = 0; j <diffs.length ; j++) {
+                    System.out.print(diffs[j]+" ");
+                }*/
+                double predConf=((votes[index]*100)/sum);
+                double relConf=((votes[a.classVal]*100)/sum);
+                System.out.println("Confidence: Predicated->"+predConf+"% real->"+relConf+"%");
+                if(predConf>80) {
+                    System.out.println("Should be: "+index);
+                    System.out.println(a);
+                }
+            }
+
 
             return (a.classVal==index);
         }
@@ -677,13 +732,13 @@ public class FrequncyCounter {
         return Math.log(a) / Math.log(b);
     }
 
-
+   int count=0;
 
     public ArrayList<Article> readDataFile(String path,boolean isEnglish, int classNum) {
         ArrayList<Article> articles=new ArrayList<Article>();
         String line = null;
         try {
-            BufferedReader br = new BufferedReader(new FileReader(path));
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(path), "UTF-8"));
             line = br.readLine();
             Article a=new Article(isEnglish,classNum);
             while (line != null) {
@@ -692,8 +747,10 @@ public class FrequncyCounter {
                     if(a.sentenceStrings.size()>0){
                         articles.add(a);
                         a=new Article(isEnglish,classNum);
+                        count++;
                     }
                 }else{
+                   // System.out.println(line);
                     if(line.length()>0){
                         String[] fragments=line.split("\\.");
                         if(fragments.length==1){
@@ -1232,6 +1289,14 @@ public class FrequncyCounter {
         public Article(boolean isEnglish, int classVal) {
             this.isEnglish = isEnglish;
             this.classVal = classVal;
+        }
+
+        public String toString(){
+            String s="Class: "+classVal+"\n";
+            for (int i = 0; i <sentenceStrings.size() ; i++) {
+                s+=sentenceStrings.get(i)+"\n";
+            }
+            return s;
         }
 
         public void addSentence(String s){
